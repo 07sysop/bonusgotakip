@@ -5,6 +5,9 @@ import json
 import time
 from datetime import datetime
 
+# ==========================================
+# AYARLAR
+# ==========================================
 def kategori_belirle(baslik):
     b = baslik.lower()
     if any(x in b for x in ['akaryakıt', 'benzin', 'mazot', 'otogaz', 'petrol', 'opet', 'shell', 'bp', 'total', 'aygaz', 'mogaz', 'po', 'petrol ofisi', 'sunpet', 'lukoil']): return 'Akaryakıt'
@@ -50,8 +53,15 @@ class MaximumBot:
                 title = clean(h3.text)
                 link = c.find("a").get("href", "")
                 if link and not link.startswith("http"): link = self.base + link
-                img = c.find("img")
-                src = self.base + (img.get("src") or img.get("data-src")) if img else ""
+                
+                # Maximum Image Fix: Check data-src first!
+                img_tag = c.find("img")
+                src = ""
+                if img_tag:
+                    src = img_tag.get("data-src") or img_tag.get("src")
+                    if src and not src.startswith("http"):
+                        src = self.base + src
+                
                 data.append({"banka": "Maximum", "baslik": title, "resim": src, "link": link, "tarih_bilgisi": tarih_analiz_et(title), "kategori": kategori_belirle(title)})
             return data
         except: return []
