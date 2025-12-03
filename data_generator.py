@@ -4,52 +4,40 @@ import re
 import json
 import time
 from datetime import datetime
-
-# ================= KATEGORİ MOTORU =================
 def kategori_belirle(baslik):
+    if not baslik: return 'Diğer'
     b = baslik.lower()
     
-    # 1. MARKET
     market_keys = ['market', 'bakkal', 'süpermarket', 'migros', 'carrefour', 'a101', 'bim', 'şok', 'file', 'bizim toptan', 'gıda', 'metro market', 'metro toptancı', 'macrocenter', 'hakmar', 'happy center', 'onur market', 'altunbilekler', 'kim market', 'bonveno', 'özdilekteyim']
     if any(x in b for x in market_keys): return 'Market'
 
-    # 2. E-TİCARET
-    eticaret_keys = ['e-ticaret', 'online alışveriş', 'amazon', 'hepsiburada', 'trendyol', 'n11', 'pttavm', 'pazarama', 'çiçeksepeti', 'yemeksepeti', 'getir', 'morhipo', 'istegelsin']
+    eticaret_keys = ['e-ticaret', 'online alışveriş', 'amazon', 'hepsiburada', 'trendyol', 'n11', 'pttavm', 'pazarama', 'çiçeksepeti', 'yemeksepeti', 'getir', 'morhipo', 'istegelsin', 'aliExpress']
     if any(x in b for x in eticaret_keys): return 'E-Ticaret'
 
-    # 3. AKARYAKIT
     akaryakit_keys = ['akaryakıt', 'benzin', 'mazot', 'otogaz', 'petrol', 'opet', 'shell', 'bp', 'totalenergies', 'aygaz', 'mogaz', 'petrol ofisi', 'sunpet', 'lukoil', 'total stations']
     if any(x in b for x in akaryakit_keys): return 'Akaryakıt'
 
-    # 4. OTOMOTİV
-    otomotiv_keys = ['otomotiv', 'lastik', 'araç bakım', 'servis', 'otopark', 'bakım', 'onarım', 'birlas', 'euromaster', 'autogong', 'bridgestone', 'goodyear', 'lassa', 'michelin', 'continental', 'pirelli', 'petlas']
+    otomotiv_keys = ['otomotiv', 'lastik', 'araç bakım', 'servis', 'otopark', 'bakım', 'onarım', 'birlas', 'euromaster', 'autogong', 'bridgestone', 'goodyear', 'lassa', 'michelin', 'continental', 'pirelli', 'petlas', 'yolcu360', 'sixt', 'avis', 'budget', 'garenta', 'enterprise', 'europcar']
     if any(x in b for x in otomotiv_keys): return 'Otomotiv'
     
-    # 5. MODA
     moda_keys = ['giyim', 'tekstil', 'moda', 'ayakkabı', 'çanta', 'aksesuar', 'saat', 'gözlük', 'kuyum', 'altın', 'pırlanta', 'kozmetik', 'boyner', 'zara', 'lcw', 'lc waikiki', 'koton', 'mavi', 'gratis', 'watsons', 'flo', 'bershka', 'massimo dutti', 'oysho', 'pandora', 'stradivarius', 'lefties', 'pull&bear', 'nine west', 'desa', 'sportive', 'forever', 'sephora', "victoria's secret", 'in street', 'atasun', 'solaris', 'reebok', 'marks & spence', 'adl', 'decathlon', 'fenerium', 'jimmy key', 'under armour', 'vakko', 'vakkoroma', 'beymen', 'yargıcı', 'divarese', 'network', 'ipekyol', 'twist', 'ramsey', 'kip', 'bisse', 'gap', 'lumberjack', 'lacoste', 'gant', 'nautica', 'superstep', 'asics', 'skechers', 'klaud', 'brooks', 'penti', 'sneak up', 'mango', 'derimod', "d's", 'damat', 'pierre cardin', 'cacharel', 'avva', 'panço', 'panco', 'defacto', 'nike', 'lee', 'wrangler', 'brooks brothers', 'tommylife', 'akınalbella', 'togo', 'max&co', 'max mara', 'marina rinaldi', 'konyalı saat', 'imannoor', 'altınyıldız']
     if any(x in b for x in moda_keys): return 'Moda'
 
-    # 6. ELEKTRONİK
     elektronik_keys = ['elektronik', 'beyaz eşya', 'teknoloji', 'telefon', 'bilgisayar', 'tv', 'teknosa', 'mediamarkt', 'vatan', 'arçelik', 'beko', 'vestel', 'samsung', 'philips', 'dyson', 'troyestore', 'vaillant', 'itopya', 'monster', 'demirdöküm', 'incehesap', 'miele', 'gürgençler', 'bosch', 'siemens', 'kumtel', 'baymak', 'profilo', 'mitsubishi electric', 'alarko carrier', 'casper']
     if any(x in b for x in elektronik_keys): return 'Elektronik'
     
-    # 7. SEYAHAT
-    seyahat_keys = ['seyahat', 'gezi', 'turizm', 'tatil', 'otel', 'uçak', 'bilet', 'hava yolu', 'araç kiralama', 'rent a car', 'jolly', 'ets', 'turları', 'booking', 'avis', 'budget', 'türk hava yolları', 'thy', 'ajet', 'pegasus', 'europcar', 'yolcu360', 'sunexpress', 'corendon', 'enterprise', 'garenta', 'sixt', 'dailydrive', 'almira hotel', 'hotel anatolia']
+    seyahat_keys = ['seyahat', 'gezi', 'turizm', 'tatil', 'otel', 'uçak', 'bilet', 'hava yolu', 'jolly', 'ets', 'turları', 'booking', 'türk hava yolları', 'thy', 'ajet', 'pegasus', 'sunexpress', 'corendon', 'almira hotel', 'hotel anatolia']
     if any(x in b for x in seyahat_keys): return 'Seyahat'
 
-    # 8. RESTORAN
-    restoran_keys = ['restoran', 'kafe', 'kafeterya', 'pastane', 'yemek', 'burger', 'pizza', 'kahve', 'starbucks', 'yeme', 'içme', 'köfteci', 'caribou coffee', 'espresso lab', 'nero', 'mcdonalds', 'burger king', 'kfc', 'dominos', 'tıkla gelsin', 'bigchefs', 'cookshop', 'sahan', 'tavacı recep', 'kaen sushi', 'bedri usta', 'midpoint']
+    restoran_keys = ['restoran', 'kafe', 'kafeterya', 'pastane', 'yemek', 'burger', 'pizza', 'kahve', 'starbucks', 'yeme', 'içme', 'köfteci', 'caribou coffee', 'espresso lab', 'nero', 'mcdonalds', 'burger king', 'kfc', 'dominos', 'tıkla gelsin', 'bigchefs', 'cookshop', 'sahan', 'tavacı recep', 'kaen sushi', 'bedri usta', 'midpoint', 'köfteci yusuf']
     if any(x in b for x in restoran_keys): return 'Restoran'
     
-    # 9. MOBİLYA
     mobilya_keys = ['mobilya', 'dekorasyon', 'ev tekstili', 'yatak', 'baza', 'mutfak', 'ikea', 'kelebek', 'bellona', 'istikbal', 'yataş', 'doğtaş', 'vivense', 'koçtaş', 'bauhaus', 'divanev', 'enza home', 'lajivert', 'ritmik', 'puffy', 'korkmaz', 'madame coco', 'english home', 'karaca', 'porland']
     if any(x in b for x in mobilya_keys): return 'Mobilya'
         
-    # 10. EĞİTİM
     egitim_keys = ['eğitim', 'okul', 'kırtasiye', 'kitap', 'kurs', 'harç', 'üniversite', 'kolej', 'dr', 'd&r', 'nezih', 'kitapyurdu', 'doping hafıza', 'konuşarak öğren', 'ofix', 'ostim']
     if any(x in b for x in egitim_keys): return 'Eğitim'
         
-    # 11. VERGİ
     vergi_keys = ['vergi', 'fatura', 'mtv', 'sgk', 'trafik cezası', 'harç', 'belediye', 'igdaş', 'iski', 'elektrik', 'doğalgaz', 'su faturası']
     if any(x in b for x in vergi_keys): return 'Vergi'
     
@@ -61,13 +49,18 @@ def tarih_analiz_et(metin, api_end_date=None):
             fark = (datetime.strptime(api_end_date.split("T")[0], "%Y-%m-%d") - datetime.now()).days + 1
             return "SÜRESİ DOLDU" if fark < 0 else f"SON {fark} GÜN"
         except: pass
+    if not metin: return ""
     m = re.search(r'(\d{1,2})\s*([a-zA-ZğüşıöçĞÜŞİÖÇ]+)\s*[-–]\s*(\d{1,2})\s*([a-zA-ZğüşıöçĞÜŞİÖÇ]+)', metin)
     if m: return f"{m.group(1)} {m.group(2)} - {m.group(3)} {m.group(4)}"
     m = re.search(r'(\d{1,2})[-–](\d{1,2})\s*([a-zA-ZğüşıöçĞÜŞİÖÇ]+)', metin)
     if m: return f"{m.group(1)}-{m.group(2)} {m.group(3)}"
     return ""
 
-def clean(text): return re.sub(r'\s+', ' ', text).strip() if text else ""
+def clean(text): 
+    if not text: return ""
+    return re.sub(r'\s+', ' ', text).strip()
+
+# ================= BANKA BOTLARI (SAFE MODE) =================
 
 class MaximumBot:
     def __init__(self):
@@ -80,17 +73,23 @@ class MaximumBot:
             soup = BeautifulSoup(res.content, "html.parser")
             data = []
             for c in soup.select(".card"):
-                h3 = c.find("h3", class_="card-text")
-                if not h3: continue
-                title = clean(h3.text)
-                link = c.find("a").get("href", "")
-                if link and not link.startswith("http"): link = self.base + link
-                img_tag = c.find("img")
-                src = ""
-                if img_tag:
-                    src = img_tag.get("data-src") or img_tag.get("src")
-                    if src and not src.startswith("http"): src = self.base + src
-                data.append({"banka": "Maximum", "baslik": title, "resim": src, "link": link, "tarih_bilgisi": tarih_analiz_et(title), "kategori": kategori_belirle(title)})
+                try:
+                    h3 = c.find("h3", class_="card-text")
+                    if not h3: continue
+                    title = clean(h3.text)
+                    
+                    a_tag = c.find("a")
+                    link = a_tag.get("href", "") if a_tag else ""
+                    if link and not link.startswith("http"): link = self.base + link
+                    
+                    img_tag = c.find("img")
+                    src = ""
+                    if img_tag:
+                        src = img_tag.get("data-src") or img_tag.get("src") or ""
+                        if src and not src.startswith("http"): src = self.base + src
+                    
+                    data.append({"banka": "Maximum", "baslik": title, "resim": src, "link": link, "tarih_bilgisi": tarih_analiz_et(title), "kategori": kategori_belirle(title)})
+                except: continue
             return data
         except: return []
 
@@ -104,12 +103,14 @@ class ParafBot:
             res = requests.get(self.url, headers=self.headers, timeout=15).json()
             data = []
             for i in res:
-                title = clean(i.get("title", ""))
-                link = i.get("url", "")
-                if link: link = self.base + link + (".html" if not link.endswith(".html") else "")
-                img = i.get("teaserImage", "")
-                if img: img = self.base + img
-                data.append({"banka": "Paraf", "baslik": title, "resim": img, "link": link, "tarih_bilgisi": tarih_analiz_et(title), "kategori": kategori_belirle(title)})
+                try:
+                    title = clean(i.get("title", ""))
+                    link = i.get("url", "")
+                    if link: link = self.base + link + (".html" if not link.endswith(".html") else "")
+                    img = i.get("teaserImage", "")
+                    if img: img = self.base + img
+                    data.append({"banka": "Paraf", "baslik": title, "resim": img, "link": link, "tarih_bilgisi": tarih_analiz_et(title), "kategori": kategori_belirle(title)})
+                except: continue
             return data
         except: return []
 
@@ -131,15 +132,17 @@ class WorldBot:
                 if not items: break
                 new = 0
                 for i in items:
-                    t = i.get("Title", "").strip()
-                    if t in seen: continue
-                    seen.add(t)
-                    new += 1
-                    img = i.get("ImageUrl", "")
-                    if img.startswith("/"): img = self.base + img
-                    lnk = i.get("Url", "")
-                    if lnk.startswith("/"): lnk = self.base + lnk
-                    data.append({"banka": "World", "baslik": t, "resim": img, "link": lnk, "tarih_bilgisi": tarih_analiz_et(t, i.get("EndDate", "")), "kategori": kategori_belirle(t)})
+                    try:
+                        t = i.get("Title", "").strip()
+                        if t in seen: continue
+                        seen.add(t)
+                        new += 1
+                        img = i.get("ImageUrl", "") or ""
+                        if img.startswith("/"): img = self.base + img
+                        lnk = i.get("Url", "") or ""
+                        if lnk.startswith("/"): lnk = self.base + lnk
+                        data.append({"banka": "World", "baslik": t, "resim": img, "link": lnk, "tarih_bilgisi": tarih_analiz_et(t, i.get("EndDate", "")), "kategori": kategori_belirle(t)})
+                    except: continue
                 if new == 0: break
                 time.sleep(0.1)
             except: break
@@ -159,9 +162,12 @@ class BonusBot:
                     a = k.find_parent("a")
                     if not a: continue
                     t = clean(a.get_text())
-                    lk = self.base + a.get("href")
+                    lk = self.base + a.get("href", "")
                     i = k.find("img")
-                    src = self.base + (i.get("data-src") or i.get("src")) if i else ""
+                    src = ""
+                    if i:
+                        src = i.get("data-src") or i.get("src") or ""
+                        src = self.base + src
                     data.append({"banka": "Bonus", "baslik": t, "resim": src, "link": lk, "tarih_bilgisi": tarih_analiz_et(t), "kategori": kategori_belirle(t)})
                 except: continue
             return data
@@ -176,31 +182,65 @@ class BankkartBot:
         data = []
         try:
             for p in range(1, 15):
-                r = requests.get(f"{self.url}?page={p}", headers=self.headers, timeout=20)
-                s = BeautifulSoup(r.content, "html.parser")
-                cards = s.select(".campaign-card") or s.select(".list-item")
-                if not cards: break
-                for c in cards:
-                    try:
-                        h = c.find(["h3", "h4", "div"], class_=lambda x: x and "title" in x)
-                        if not h: continue
-                        t = clean(h.text)
-                        a = c.find("a")
-                        lk = (self.base + a.get("href")) if a and not a.get("href").startswith("http") else (a.get("href") if a else "")
-                        i = c.find("img")
-                        src = (self.base + i.get("src")) if i and not i.get("src").startswith("http") else (i.get("src") if i else "")
-                        data.append({"banka": "Bankkart", "baslik": t, "resim": src, "link": lk, "tarih_bilgisi": tarih_analiz_et(t), "kategori": kategori_belirle(t)})
-                    except: continue
-                time.sleep(0.5)
+                try:
+                    r = requests.get(f"{self.url}?page={p}", headers=self.headers, timeout=20)
+                    s = BeautifulSoup(r.content, "html.parser")
+                    # Genişletilmiş seçici: campaign-card VEYA list-item
+                    cards = s.select(".campaign-card") or s.select(".list-item")
+                    if not cards: break
+                    for c in cards:
+                        try:
+                            # Başlık (h3, h4 veya class içinde title geçen div)
+                            h = c.find(["h3", "h4", "div"], class_=lambda x: x and "title" in x)
+                            if not h: continue
+                            t = clean(h.text)
+                            
+                            # Link
+                            a = c.find("a")
+                            lk = ""
+                            if a:
+                                href = a.get("href", "")
+                                if href:
+                                    lk = (self.base + href) if not href.startswith("http") else href
+                            
+                            # Resim
+                            i = c.find("img")
+                            src = ""
+                            if i:
+                                s_attr = i.get("src", "")
+                                if s_attr:
+                                    src = (self.base + s_attr) if not s_attr.startswith("http") else s_attr
+                            
+                            data.append({"banka": "Bankkart", "baslik": t, "resim": src, "link": lk, "tarih_bilgisi": tarih_analiz_et(t), "kategori": kategori_belirle(t)})
+                        except: continue
+                    time.sleep(0.5)
+                except: break
             return data
         except: return []
 
 if __name__ == "__main__":
     all_data = []
-    all_data.extend(MaximumBot().scrape())
-    all_data.extend(ParafBot().scrape())
-    all_data.extend(WorldBot().scrape())
-    all_data.extend(BonusBot().scrape())
-    all_data.extend(BankkartBot().scrape())
+    
+    # Hata olsa bile diğer bankaları çalıştırıp listeye ekle
+    # Maximum
+    try: all_data.extend(MaximumBot().scrape())
+    except Exception as e: print(f"Max Hata: {e}")
+    
+    # Paraf
+    try: all_data.extend(ParafBot().scrape())
+    except Exception as e: print(f"Paraf Hata: {e}")
+    
+    # World
+    try: all_data.extend(WorldBot().scrape())
+    except Exception as e: print(f"World Hata: {e}")
+    
+    # Bonus
+    try: all_data.extend(BonusBot().scrape())
+    except Exception as e: print(f"Bonus Hata: {e}")
+    
+    # Bankkart
+    try: all_data.extend(BankkartBot().scrape())
+    except Exception as e: print(f"Bankkart Hata: {e}")
+    
     with open("kampanyalar.json", "w", encoding="utf-8") as f:
         json.dump(all_data, f, ensure_ascii=False)
