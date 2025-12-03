@@ -5,30 +5,54 @@ import json
 import time
 from datetime import datetime
 
+# ================= KATEGORİ MOTORU =================
 def kategori_belirle(baslik):
     b = baslik.lower()
-    market_keys = ['market', 'bakkal', 'süpermarket', 'migros', 'carrefour', 'a101', 'bim', 'şok', 'file', 'bizim toptan', 'gıda', 'metro market', 'metro toptancı', 'macrocenter', 'hakmar', 'happy center', 'onur market', 'altunbilekler', 'kim market']
+    
+    # 1. MARKET
+    market_keys = ['market', 'bakkal', 'süpermarket', 'migros', 'carrefour', 'a101', 'bim', 'şok', 'file', 'bizim toptan', 'gıda', 'metro market', 'metro toptancı', 'macrocenter', 'hakmar', 'happy center', 'onur market', 'altunbilekler', 'kim market', 'bonveno', 'özdilekteyim']
     if any(x in b for x in market_keys): return 'Market'
-    eticaret_keys = ['e-ticaret', 'online alışveriş', 'amazon', 'hepsiburada', 'trendyol', 'n11', 'pttavm', 'pazarama', 'çiçeksepeti', 'yemeksepeti', 'getir', 'morhipo']
+
+    # 2. E-TİCARET
+    eticaret_keys = ['e-ticaret', 'online alışveriş', 'amazon', 'hepsiburada', 'trendyol', 'n11', 'pttavm', 'pazarama', 'çiçeksepeti', 'yemeksepeti', 'getir', 'morhipo', 'istegelsin']
     if any(x in b for x in eticaret_keys): return 'E-Ticaret'
-    akaryakit_keys = ['akaryakıt', 'benzin', 'mazot', 'otogaz', 'petrol', 'opet', 'shell', 'aygaz', 'mogaz', 'petrol ofisi', 'sunpet', 'lukoil', 'total stations', 'total energies', 'bp istasyon']
+
+    # 3. AKARYAKIT
+    akaryakit_keys = ['akaryakıt', 'benzin', 'mazot', 'otogaz', 'petrol', 'opet', 'shell', 'bp', 'totalenergies', 'aygaz', 'mogaz', 'petrol ofisi', 'sunpet', 'lukoil', 'total stations']
     if any(x in b for x in akaryakit_keys): return 'Akaryakıt'
-    otomotiv_keys = ['otomotiv', 'lastik', 'araç bakım', 'servis', 'otopark', 'bakım', 'onarım', 'birlas', 'euromaster', 'autogong', 'bridgestone', 'goodyear', 'lassa', 'michelin', 'continental', 'pirelli']
+
+    # 4. OTOMOTİV
+    otomotiv_keys = ['otomotiv', 'lastik', 'araç bakım', 'servis', 'otopark', 'bakım', 'onarım', 'birlas', 'euromaster', 'autogong', 'bridgestone', 'goodyear', 'lassa', 'michelin', 'continental', 'pirelli', 'petlas']
     if any(x in b for x in otomotiv_keys): return 'Otomotiv'
-    moda_keys = ['giyim', 'tekstil', 'moda', 'ayakkabı', 'çanta', 'aksesuar', 'saat', 'gözlük', 'kuyum', 'altın', 'pırlanta', 'kozmetik', 'boyner', 'zara', 'lcw', 'lc waikiki', 'koton', 'mavi', 'gratis', 'watsons', 'flo', 'bershka', 'massimo dutti', 'oysho', 'pandora', 'stradivarius', 'lefties', 'pull&bear', 'nine west', 'desa', 'sportive', 'forever', 'sephora', "victoria's secret", 'in street', 'atasun', 'solaris', 'reebok', 'marks & spence', 'adl', 'decathlon', 'fenerium', 'jimmy key', 'under armour', 'vakko', 'vakkoroma', 'beymen', 'yargıcı', 'divarese', 'network', 'ipekyol', 'twist', 'ramsey', 'kip', 'bisse', 'gap', 'lumberjack', 'lacoste', 'gant', 'nautica', 'superstep', 'asics', 'skechers', 'klaud', 'brooks', 'penti', 'sneak up', 'mango', 'derimod', "d's", 'damat', 'pierre cardin', 'cacharel', 'avva', 'panço', 'panco', 'defacto', 'nike', 'lee', 'wrangler']
+    
+    # 5. MODA
+    moda_keys = ['giyim', 'tekstil', 'moda', 'ayakkabı', 'çanta', 'aksesuar', 'saat', 'gözlük', 'kuyum', 'altın', 'pırlanta', 'kozmetik', 'boyner', 'zara', 'lcw', 'lc waikiki', 'koton', 'mavi', 'gratis', 'watsons', 'flo', 'bershka', 'massimo dutti', 'oysho', 'pandora', 'stradivarius', 'lefties', 'pull&bear', 'nine west', 'desa', 'sportive', 'forever', 'sephora', "victoria's secret", 'in street', 'atasun', 'solaris', 'reebok', 'marks & spence', 'adl', 'decathlon', 'fenerium', 'jimmy key', 'under armour', 'vakko', 'vakkoroma', 'beymen', 'yargıcı', 'divarese', 'network', 'ipekyol', 'twist', 'ramsey', 'kip', 'bisse', 'gap', 'lumberjack', 'lacoste', 'gant', 'nautica', 'superstep', 'asics', 'skechers', 'klaud', 'brooks', 'penti', 'sneak up', 'mango', 'derimod', "d's", 'damat', 'pierre cardin', 'cacharel', 'avva', 'panço', 'panco', 'defacto', 'nike', 'lee', 'wrangler', 'brooks brothers', 'tommylife', 'akınalbella', 'togo', 'max&co', 'max mara', 'marina rinaldi', 'konyalı saat', 'imannoor', 'altınyıldız']
     if any(x in b for x in moda_keys): return 'Moda'
-    elektronik_keys = ['elektronik', 'beyaz eşya', 'teknoloji', 'telefon', 'bilgisayar', 'tv', 'teknosa', 'mediamarkt', 'vatan', 'arçelik', 'beko', 'vestel', 'samsung', 'philips', 'dyson', 'troyestore', 'vaillant', 'itopya', 'monster', 'demirdöküm', 'incehesap', 'miele', 'gürgençler', 'bosch', 'siemens', 'kumtel', 'baymak', 'profilo', 'mitsubishi electric', 'alarko carrier']
+
+    # 6. ELEKTRONİK
+    elektronik_keys = ['elektronik', 'beyaz eşya', 'teknoloji', 'telefon', 'bilgisayar', 'tv', 'teknosa', 'mediamarkt', 'vatan', 'arçelik', 'beko', 'vestel', 'samsung', 'philips', 'dyson', 'troyestore', 'vaillant', 'itopya', 'monster', 'demirdöküm', 'incehesap', 'miele', 'gürgençler', 'bosch', 'siemens', 'kumtel', 'baymak', 'profilo', 'mitsubishi electric', 'alarko carrier', 'casper']
     if any(x in b for x in elektronik_keys): return 'Elektronik'
-    seyahat_keys = ['seyahat', 'gezi', 'turizm', 'tatil', 'otel', 'uçak', 'bilet', 'hava yolu', 'araç kiralama', 'rent a car', 'jolly', 'ets', 'turları', 'booking', 'avis', 'budget', 'türk hava yolları', 'thy', 'ajet', 'pegasus', 'europcar', 'yolcu360', 'sunexpress', 'corendon', 'enterprise', 'garenta']
+    
+    # 7. SEYAHAT
+    seyahat_keys = ['seyahat', 'gezi', 'turizm', 'tatil', 'otel', 'uçak', 'bilet', 'hava yolu', 'araç kiralama', 'rent a car', 'jolly', 'ets', 'turları', 'booking', 'avis', 'budget', 'türk hava yolları', 'thy', 'ajet', 'pegasus', 'europcar', 'yolcu360', 'sunexpress', 'corendon', 'enterprise', 'garenta', 'sixt', 'dailydrive', 'almira hotel', 'hotel anatolia']
     if any(x in b for x in seyahat_keys): return 'Seyahat'
-    restoran_keys = ['restoran', 'kafe', 'kafeterya', 'pastane', 'yemek', 'burger', 'pizza', 'kahve', 'starbucks', 'yeme', 'içme', 'köfteci', 'caribou coffee', 'espresso lab', 'nero', 'mcdonalds', 'burger king', 'kfc', 'dominos']
+
+    # 8. RESTORAN
+    restoran_keys = ['restoran', 'kafe', 'kafeterya', 'pastane', 'yemek', 'burger', 'pizza', 'kahve', 'starbucks', 'yeme', 'içme', 'köfteci', 'caribou coffee', 'espresso lab', 'nero', 'mcdonalds', 'burger king', 'kfc', 'dominos', 'tıkla gelsin', 'bigchefs', 'cookshop', 'sahan', 'tavacı recep', 'kaen sushi', 'bedri usta', 'midpoint']
     if any(x in b for x in restoran_keys): return 'Restoran'
-    mobilya_keys = ['mobilya', 'dekorasyon', 'ev tekstili', 'yatak', 'baza', 'mutfak', 'ikea', 'kelebek', 'bellona', 'istikbal', 'yataş', 'doğtaş', 'vivense', 'koçtaş', 'bauhaus']
+    
+    # 9. MOBİLYA
+    mobilya_keys = ['mobilya', 'dekorasyon', 'ev tekstili', 'yatak', 'baza', 'mutfak', 'ikea', 'kelebek', 'bellona', 'istikbal', 'yataş', 'doğtaş', 'vivense', 'koçtaş', 'bauhaus', 'divanev', 'enza home', 'lajivert', 'ritmik', 'puffy', 'korkmaz', 'madame coco', 'english home', 'karaca', 'porland']
     if any(x in b for x in mobilya_keys): return 'Mobilya'
-    egitim_keys = ['eğitim', 'okul', 'kırtasiye', 'kitap', 'kurs', 'harç', 'üniversite', 'kolej', 'dr', 'd&r', 'nezih', 'kitapyurdu']
+        
+    # 10. EĞİTİM
+    egitim_keys = ['eğitim', 'okul', 'kırtasiye', 'kitap', 'kurs', 'harç', 'üniversite', 'kolej', 'dr', 'd&r', 'nezih', 'kitapyurdu', 'doping hafıza', 'konuşarak öğren', 'ofix', 'ostim']
     if any(x in b for x in egitim_keys): return 'Eğitim'
-    vergi_keys = ['vergi', 'fatura', 'mtv', 'sgk', 'trafik cezası', 'harç', 'belediye']
+        
+    # 11. VERGİ
+    vergi_keys = ['vergi', 'fatura', 'mtv', 'sgk', 'trafik cezası', 'harç', 'belediye', 'igdaş', 'iski', 'elektrik', 'doğalgaz', 'su faturası']
     if any(x in b for x in vergi_keys): return 'Vergi'
+    
     return 'Diğer'
 
 def tarih_analiz_et(metin, api_end_date=None):
