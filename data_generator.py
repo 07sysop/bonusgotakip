@@ -6,7 +6,7 @@ import time
 from datetime import datetime
 
 # ==========================================
-# 1. AYARLAR VE YARDIMCI FONKSİYONLAR
+# AYARLAR VE YARDIMCI FONKSİYONLAR
 # ==========================================
 
 def kategori_belirle(baslik):
@@ -47,7 +47,7 @@ def tarih_analiz_et(metin, api_end_date=None):
 def clean(text): return re.sub(r'\s+', ' ', text).strip() if text else ""
 
 # ==========================================
-# 2. BANKA BOTLARI
+# BANKA BOTLARI
 # ==========================================
 
 class BankkartBot:
@@ -62,34 +62,24 @@ class BankkartBot:
         }
 
     def get_image_from_detail(self, detail_url):
-        """Detay sayfasına gidip og:image veya kampanya görselini çeker."""
         try:
-            # X-Requested-With headerını kaldırıyoruz detay sayfası için, normal tarayıcı gibi davranalım
             detail_headers = {k:v for k,v in self.headers.items() if k != "X-Requested-With"}
-            
             res = requests.get(detail_url, headers=detail_headers, timeout=10)
             if res.status_code == 200:
                 soup = BeautifulSoup(res.content, "html.parser")
-                
-                # 1. Deneme: Meta og:image (En güvenilir)
                 meta_img = soup.find("meta", property="og:image")
                 if meta_img and meta_img.get("content"):
                     return meta_img.get("content")
-                
-                # 2. Deneme: Kampanya detay divi
                 img_div = soup.select_one(".campaign-detail-content img")
                 if img_div and img_div.get("src"):
                     return "https://www.bankkart.com.tr" + img_div.get("src")
-                    
-        except Exception as e:
-            # print(f"Resim hatası ({detail_url}): {e}") # Hata ayıklama için açılabilir
-            pass
+        except: pass
         return ""
 
     def scrape(self):
         data = []
         page_index = 1
-        print("🚀 Bankkart verileri ve resimleri çekiliyor (Biraz zaman alabilir)...")
+        print("🚀 Bankkart verileri ve resimleri çekiliyor...")
         
         while True:
             params = {"indexNo": page_index, "type": "Bireysel"}
@@ -97,8 +87,7 @@ class BankkartBot:
                 response = requests.get(self.api_url, headers=self.headers, params=params, timeout=15)
                 if response.status_code == 200:
                     json_data = response.json()
-                    
-                    if isinstance(json_data, list): break 
+                    if isinstance(json_data, list): break
                     items = json_data.get("Items", [])
                     if not items: break
                     
@@ -106,17 +95,12 @@ class BankkartBot:
                         title = clean(item.get("Title", ""))
                         seo_name = item.get("SeoName", "")
                         
-                        # --- DÜZELTME: KATEGORİ SEO URL ---
-                        # Link yapısı: /kampanyalar/KATEGORI-SEO/KAMPANYA-SEO
                         cat_seo = item.get("Category", {}).get("SeoName", "")
-                        
                         if cat_seo and seo_name:
                             link = f"{self.base_url}{cat_seo}/{seo_name}"
                         else:
-                            # Yedek (Bazen kategori olmayabilir)
                             link = f"{self.base_url}genel-kampanyalar/{seo_name}"
                         
-                        # Resim Çekme
                         img_url = ""
                         if link:
                             img_url = self.get_image_from_detail(link)
@@ -133,8 +117,7 @@ class BankkartBot:
                     print(f"✅ Bankkart Sayfa {page_index} işlendi. ({len(items)} adet)")
                     page_index += 1
                     time.sleep(0.5) 
-                else:
-                    break
+                else: break
             except Exception as e:
                 print(f"⚠️ Bankkart hatası: {e}")
                 break
@@ -243,7 +226,7 @@ class BonusBot:
         except: return []
 
 # ==========================================
-# 3. HTML ÇIKTI OLUŞTURUCU (TEST İÇİN)
+# 3. HTML ÇIKTI OLUŞTURUCU (TEST)
 # ==========================================
 def generate_html_preview(json_data):
     json_str = json.dumps(json_data, ensure_ascii=False)
@@ -253,7 +236,7 @@ def generate_html_preview(json_data):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BonusGo Kampanya Önizleme</title>
+    <title>BonusGo Yerel Test</title>
     <link href='https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap' rel='stylesheet'/>
     <style>
         :root {{
@@ -263,18 +246,16 @@ def generate_html_preview(json_data):
             --max: #E52E88;
             --paraf: #00ADEF;
             --world: #6A1B9A;
-            --bankkart: #E30613; /* YENİ RENK */
+            --bankkart: #E30613;
             --gray: #f4f6f8;
         }}
         body {{ font-family: 'Segoe UI', sans-serif; background-color: var(--gray); padding: 20px; }}
         
-        /* Filtreler */
         .filters {{ display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 20px; font-family: 'Poppins', sans-serif; }}
         .btn {{ border: 1px solid #ddd; border-radius: 20px; padding: 8px 18px; font-size: 13px; font-weight: 600; cursor: pointer; background: white; color: #666; transition: 0.2s; }}
         .btn:hover {{ transform: translateY(-2px); }}
         .btn.active {{ color: white; border-color: transparent; }}
         
-        /* Buton Renkleri */
         .btn.all.active {{ background: var(--dark); }}
         .btn.Bonus.active {{ background: var(--bonus); }}
         .btn.Maximum.active {{ background: var(--max); }}
@@ -282,7 +263,6 @@ def generate_html_preview(json_data):
         .btn.World.active {{ background: var(--world); }}
         .btn.Bankkart.active {{ background: var(--bankkart); }}
         
-        /* Grid ve Kartlar */
         .grid {{ display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px; }}
         
         .card {{ background: white; border-radius: 12px; overflow: hidden; display: flex; flex-direction: column; border: 2px solid #eee; transition: 0.2s; }}
@@ -316,7 +296,6 @@ def generate_html_preview(json_data):
         .card.Bonus .btn-detay {{ background: var(--bonus); }}
         .card.Bankkart .btn-detay {{ background: var(--bankkart); }}
         
-        /* Load More Butonu */
         #loadMoreBtn {{
             padding: 12px 30px; background: var(--dark); color: white; border: none; border-radius: 25px;
             cursor: pointer; font-weight: 600; display: block; margin: 40px auto;
@@ -349,7 +328,6 @@ def generate_html_preview(json_data):
         let currentBank = 'ALL';
         
         function init() {{
-            // Buton sayılarını güncelle
             const counts = {{'Bonus':0, 'Maximum':0, 'Paraf':0, 'World':0, 'Bankkart':0}};
             data.forEach(c => {{ if(counts[c.banka] !== undefined) counts[c.banka]++ }});
             
@@ -359,9 +337,7 @@ def generate_html_preview(json_data):
             }});
             document.querySelector('.btn.all').textContent = `TÜMÜ (${{data.length}})`;
             
-            // "Daha Fazla Göster" butonu
             document.getElementById('loadMoreBtn').addEventListener('click', renderChunk);
-            
             setBank('ALL');
         }}
         
@@ -371,14 +347,9 @@ def generate_html_preview(json_data):
             if(bank === 'ALL') document.querySelector('.btn.all').classList.add('active');
             else document.querySelector(`.btn.${{bank}}`).classList.add('active');
             
-            // Filtreleme yap
             currentFiltered = bank === 'ALL' ? data : data.filter(c => c.banka === bank);
-            
-            // Grid'i temizle ve sıfırla
             document.getElementById('grid').innerHTML = '';
             displayedCount = 0;
-            
-            // İlk grubu yükle
             renderChunk();
         }};
         
@@ -390,29 +361,20 @@ def generate_html_preview(json_data):
                 const card = document.createElement('div');
                 card.className = `card ${{c.banka}}`;
                 
-                // Resim kontrolü
                 const imgUrl = (c.resim && c.resim.length > 5) ? c.resim : `https://via.placeholder.com/300x140?text=${{c.banka}}`;
                 const dateHtml = c.tarih_bilgisi ? `<div class="date">${{c.tarih_bilgisi}}</div>` : '<div class="date" style="height:14px;"></div>';
                 
                 card.innerHTML = `
                     <div class="img-box"><img src="${{imgUrl}}" onerror="this.src='https://via.placeholder.com/300x140?text=ResimYok'"></div>
                     <div class="content">
-                        <div>
-                            <span class="badge">${{c.banka}}</span>
-                            <div class="title">${{c.baslik}}</div>
-                        </div>
-                        <div>
-                            ${{dateHtml}}
-                            <a href="${{c.link}}" target="_blank" class="btn-detay">DETAY</a>
-                        </div>
+                        <div><span class="badge">${{c.banka}}</span><div class="title">${{c.baslik}}</div></div>
+                        <div>${{dateHtml}}<a href="${{c.link}}" target="_blank" class="btn-detay">DETAY</a></div>
                     </div>
                 `;
                 grid.appendChild(card);
             }});
             
             displayedCount += chunk.length;
-            
-            // Buton kontrolü
             const btn = document.getElementById('loadMoreBtn');
             const remaining = currentFiltered.length - displayedCount;
             
@@ -435,7 +397,7 @@ def generate_html_preview(json_data):
     """
     with open("onizleme.html", "w", encoding="utf-8") as f:
         f.write(html_content)
-    print("🌍 'onizleme.html' dosyası oluşturuldu. Tarayıcıda açıp test edebilirsiniz.")
+    print("🌍 'onizleme.html' dosyası oluşturuldu.")
 
 # ==========================================
 # ANA ÇALIŞTIRMA BLOĞU
@@ -443,7 +405,6 @@ def generate_html_preview(json_data):
 if __name__ == "__main__":
     all_data = []
     
-    # 1. Tüm bankaları sırayla çalıştır
     all_data.extend(BankkartBot().scrape())
     all_data.extend(MaximumBot().scrape())
     all_data.extend(ParafBot().scrape())
@@ -452,10 +413,8 @@ if __name__ == "__main__":
     
     print(f"\n✅ Toplam {len(all_data)} kampanya bulundu.")
     
-    # 2. JSON Kaydet
     with open("kampanyalar.json", "w", encoding="utf-8") as f:
         json.dump(all_data, f, ensure_ascii=False, indent=4)
     print("📁 'kampanyalar.json' kaydedildi.")
 
-    # 3. HTML Önizleme Oluştur
     generate_html_preview(all_data)
