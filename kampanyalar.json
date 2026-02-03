@@ -1,10 +1,10 @@
 [
     {
         "banka": "Bankkart",
-        "baslik": "İlk Bankkart Kredi Kartınıza 5.000 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13845.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/ilk-bankkart-kredi-kartiniza-5000-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 87 GÜN",
+        "baslik": "Şubat Ayına Özel Toplam 2.500 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14055.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/subat-ayina-ozel-toplam-2500-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -12,7 +12,7 @@
         "baslik": "Bankkart'ınıza MTV'de 4 Taksit",
         "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13611.vsf",
         "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/bankkartiniza-mtvde-4-taksit",
-        "tarih_bilgisi": "SON 4 GÜN",
+        "tarih_bilgisi": "SON 3 GÜN",
         "kategori": "Vergi"
     },
     {
@@ -20,935 +20,23 @@
         "baslik": "Okul Ödemelerinizde +8 Taksit",
         "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13793.vsf",
         "link": "https://www.bankkart.com.tr/kampanyalar/egitim-kitap-ve-kirtasiye/okul-odemelerinizde-8-taksit",
-        "tarih_bilgisi": "SON 57 GÜN",
+        "tarih_bilgisi": "SON 56 GÜN",
         "kategori": "Eğitim"
     },
     {
         "banka": "Bankkart",
         "baslik": "Seçili Okullarda Peşin Ödemelerinize 6 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13924.vsf",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14070.vsf",
         "link": "https://www.bankkart.com.tr/kampanyalar/egitim-kitap-ve-kirtasiye/secili-okullarda-pesin-odemelerinize-6-taksit",
-        "tarih_bilgisi": "SON 57 GÜN",
+        "tarih_bilgisi": "SON 56 GÜN",
         "kategori": "Diğer"
     },
     {
         "banka": "Bankkart",
-        "baslik": "TotalEnergies'te 300 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13853.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/akaryakit/totalenergieste-300-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 13 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "M Oil'de 300 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13854.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/akaryakit/m-oilde-300-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 13 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Togg Trumore Mağaza'da 1.000 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13831.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/togg-trumore-magazada-1000-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 18 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Bankkart Prestij'inizle Priceless Deneyimler",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13819.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/bankkart-prestijinizle-priceless-deneyimler",
-        "tarih_bilgisi": "SON 332 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Monster Notebook'ta Peşin Fiyatına 12 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13968.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/elektronik-ve-telekomunikasyon/monster-notebookta-pesin-fiyatina-12-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Elektronik"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Türk Hava Yolları'nda 6 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13925.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/turizm-ve-seyahat/turk-hava-yollarinda-6-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Seyahat"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "1.000.000 TL'ye kadar Faizsiz 4 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13967.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/genel-kampanyalar/1000000-tlye-kadar-faizsiz-4-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Bankkart Prestij'inize Duty Free Alışverişlerinizde %15 İndirim",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13470.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/bankkart-prestijinize-duty-free-alisverislerinizde-15-indirim",
-        "tarih_bilgisi": "SON 57 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Bankkart Prestij'inize Yurt Dışı Restoranlarda %15 İndirim",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13476.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/bankkart-prestijinize-yurt-disi-restoranlarda-15-indirim",
-        "tarih_bilgisi": "SON 57 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Yurt Dışı Alışverişlerinize 5.000 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13822.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/yurt-disi-alisverislerinize-5000-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Trendyol'da 6'ya varan Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13927.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/e-ticaret/trendyolda-6ya-varan-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "E-Ticaret"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Dyson'da Peşin Fiyatına 9 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13919.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/beyaz-esya-ve-ev-aletleri/dysonda-pesin-fiyatina-9-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Elektronik"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "ENPLUS'ta 6 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13929.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/beyaz-esya-ve-ev-aletleri/enplusta-6-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Miele'de 6 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13928.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/beyaz-esya-ve-ev-aletleri/mielede-6-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Elektronik"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "AJET'te 6 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13926.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/turizm-ve-seyahat/ajette-6-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Seyahat"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Taşıt Kredisi Kullanan Müşterilerimize Özel 2.500 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13796.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/akaryakit/tasit-kredisi-kullanan-musterilerimize-ozel-2500-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 57 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Karaca'da 3 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13923.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/beyaz-esya-ve-ev-aletleri/karacada-3-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Vestel'de 9 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13914.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/beyaz-esya-ve-ev-aletleri/vestelde-9-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Elektronik"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Beymen'de 4 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13930.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/beymende-4-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Moda"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Vakko'da 4 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13931.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/vakkoda-4-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Moda"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Beymen Club'da 4 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13932.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/beymen-clubda-4-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Moda"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "W Collection'da 4 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13933.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/w-collectionda-4-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Mavi'de 4 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13934.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/mavide-4-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Moda"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Barçın Spor'da 4 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13935.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/barcin-sporda-4-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Under Armour'da 4 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13918.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/under-armourda-4-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Moda"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "A101'de 6 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13958.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/a101de-6-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Market"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Troy'da 3 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13893.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/elektronik-ve-telekomunikasyon/troyda-3-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Vatan'da 3 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13938.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/elektronik-ve-telekomunikasyon/vatanda-3-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Elektronik"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "NetWork'te 4 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13939.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/networkte-4-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Moda"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Divarese'te 4 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13940.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/divaresete-4-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Moda"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Ayakkabı Dünyası'nda 4 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13813.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/ayakkabi-dunyasinda-4-taksit",
-        "tarih_bilgisi": "SON 7 GÜN",
-        "kategori": "Moda"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Skechers'ta 3 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13891.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/skechersta-3-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Moda"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Ramsey'de 4 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13941.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/ramseyde-4-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Moda"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "KİP'te 4 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13962.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/kipte-4-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "E-bebek'te 4 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13942.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/e-bebekte-4-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Benetton'da 2 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13892.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/benettonda-2-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Wall Street English'te 2 Ay Hediye Ders",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13745.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/egitim-kitap-ve-kirtasiye/wall-street-englishte-2-ay-hediye-ders",
-        "tarih_bilgisi": "SON 148 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "EBSCOhost'ta Ücretsiz Dijital Kütüphane!",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13651.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/egitim-kitap-ve-kirtasiye/ebscohostta-ucretsiz-dijital-kutuphane",
-        "tarih_bilgisi": "SON 332 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Rosetta Stone'da Ücretsiz Dil Eğitimi!",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13652.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/egitim-kitap-ve-kirtasiye/rosetta-stoneda-ucretsiz-dil-egitimi",
-        "tarih_bilgisi": "SON 332 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Enterprise'ta Araç Kiralamalarınızda %30 İndirim",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13838.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/turizm-ve-seyahat/enterpriseta-arac-kiralamalarinizda-30-indirim",
-        "tarih_bilgisi": "SON 332 GÜN",
-        "kategori": "Seyahat"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Yolcu360'ta Uçak Bileti Alımlarınıza 600 TL'ye varan İndirim!",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13490.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/turizm-ve-seyahat/yolcu360ta-ucak-bileti-alimlariniza-600-tlye-varan-indirim",
-        "tarih_bilgisi": "SON 57 GÜN",
-        "kategori": "Seyahat"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Yolcu360'ta Yurt İçi Araç Kiralamalarınızda %10 İndirim",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13877.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/turizm-ve-seyahat/yolcu360ta-yurt-ici-arac-kiralamalarinizda-10-indirim",
-        "tarih_bilgisi": "SON 332 GÜN",
-        "kategori": "Seyahat"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Yolcu360'ta Yurt Dışı Araç Kiralamalarınızda %15 İndirim",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13876.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/turizm-ve-seyahat/yolcu360ta-yurt-disi-arac-kiralamalarinizda-15-indirim",
-        "tarih_bilgisi": "SON 332 GÜN",
-        "kategori": "Seyahat"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "IKEA'da 6 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13943.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/ikeada-6-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Mobilya"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "PETLAS'ta Peşin Fiyatına 6 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13644.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/petlasta-pesin-fiyatina-6-taksit",
-        "tarih_bilgisi": "SON 148 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Jumbo'da 5 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13894.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/jumboda-5-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Alışverişlerinizi Sonradan Bankkart Lira ile Ödeyin!",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13751.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/genel-kampanyalar/alisverislerinizi-sonradan-bankkart-lira-ile-odeyin",
-        "tarih_bilgisi": "SON 332 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Faik Sönmez'de 3 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13895.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/faik-sonmezde-3-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Ipekyol'da 3 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13896.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/ipekyolda-3-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Moda"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Suwen'de 3 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13944.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/suwende-3-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Sağlık Sektöründe +5 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13517.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/saglik-sektorunde-5-taksit",
-        "tarih_bilgisi": "SON 57 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "ModaLife'ta 9 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13945.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/modalifeta-9-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Kelebek'te 6 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13946.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/kelebekte-6-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Mobilya"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Doğtaş'ta 6 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13947.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/dogtasta-6-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Mobilya"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Twist'te 3 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13897.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/twistte-3-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Moda"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Opmar Optik'te 4 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13898.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/kuyum-optik-ve-saat/opmar-optikte-4-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Dagi'de 2 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13899.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/dagide-2-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Machka'da 3 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13900.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/machkada-3-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Puffy'de 6'ya varan Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13948.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/puffyde-6ya-varan-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Ekstrenin Yarısını Bir Sonraki Aya Faizsiz Ertele!",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13750.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/genel-kampanyalar/ekstrenin-yarisini-bir-sonraki-aya-faizsiz-ertele",
-        "tarih_bilgisi": "SON 332 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Avva'da 2 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13909.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/avvada-2-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Moda"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "İdaş'ta 9 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13921.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/idasta-9-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Çilek Mobilya'da 9 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13917.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/cilek-mobilyada-9-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Mobilya"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Abdullah Kiğılı'da 2 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13908.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/abdullah-kigilida-2-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Kiğılı'da 2 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13907.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/kigilida-2-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Mondihome'da 9 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13949.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/mondihomeda-9-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "İstikbal'de 9 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13956.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/istikbalde-9-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Desa'da 2 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13901.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/desada-2-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Moda"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Bellona'da 9 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13950.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/bellonada-9-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Mobilya"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Daikin'de 6 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13913.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/yapi-sektoru-ve-iklimlendirme/daikinde-6-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Samsonite'ta 2 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13905.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/samsoniteta-2-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Oxxo'da 2 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13906.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/oxxoda-2-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Panço'da 3 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13912.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/pancoda-3-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Moda"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Tespo'da 2 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13904.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/tespoda-2-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Continental'da 4 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13911.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/continentalda-4-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Otomotiv"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Alfemo'da 9 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13953.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/alfemoda-9-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Evidea'da 2 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13903.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/evideada-2-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Koçtaş'ta 2 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13902.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/yapi-sektoru-ve-iklimlendirme/koctasta-2-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Mobilya"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Alarko Carrier'da 6 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13910.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/yapi-sektoru-ve-iklimlendirme/alarko-carrierda-6-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Elektronik"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "E.C.A. Kombi'de 12 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13955.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/yapi-sektoru-ve-iklimlendirme/eca-kombide-12-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Uğur Derin Dondurucu'da 9 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13915.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/beyaz-esya-ve-ev-aletleri/ugur-derin-dondurucuda-9-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Decathlon'da 4 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13951.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/decathlonda-4-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Moda"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "BAUHAUS'ta 3 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13952.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/yapi-sektoru-ve-iklimlendirme/bauhausta-3-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Mobilya"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Michelin'de 4 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13916.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/michelinde-4-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Otomotiv"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Roman'da 3 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13954.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/romanda-3-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Kafe ve Restoran Harcamalarınıza Toplam 450 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14024.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/kafe-ve-restoran-harcamalariniza-toplam-450-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Restoran"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "QR ile Ödemelerinize Toplam 100 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14026.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/qr-ile-odemelerinize-toplam-100-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Kocatepe Kahve Evi'nde 400 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14027.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/kocatepe-kahve-evinde-400-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Restoran"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Bankkart Genç'lilere Kocatepe Kahve Evi'nde 400 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14029.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/bankkart-genclilere-kocatepe-kahve-evinde-400-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Restoran"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Yapı Market Alışverişlerinize 500 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14013.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/yapi-sektoru-ve-iklimlendirme/yapi-market-alisverislerinize-500-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Market"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Klima ve Kombi Alışverişinize 1.000 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14030.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/yapi-sektoru-ve-iklimlendirme/klima-ve-kombi-alisverisinize-1000-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Coral Travel'da 8.500 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14054.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/turizm-ve-seyahat/coral-travelda-8500-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Emeklilerimizin Market Alışverişlerine Toplam 1.500 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13986.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/emeklilerimizin-market-alisverislerine-toplam-1500-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Market"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Emeklilerimizin Sağlık Harcamalarında 1.500 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13985.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/emeklilerimizin-saglik-harcamalarinda-1500-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Emeklilerimizin Seçili Sektörlerdeki Alışverişlerine 3.000 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13984.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/emeklilerimizin-secili-sektorlerdeki-alisverislerine-3000-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Bankkart Gençlilere Kitap ve Kırtasiyede 750 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14028.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/egitim-kitap-ve-kirtasiye/bankkart-genclilere-kitap-ve-kirtasiyede-750-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Eğitim"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Market Alışverişlerinize 1.000 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14036.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/market-alisverislerinize-1000-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 13 GÜN",
-        "kategori": "Market"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Ev Tekstili ve Züccaciye Alışverişlerinizde Toplam 600 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14045.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/ev-tekstili-ve-zuccaciye-alisverislerinizde-toplam-600-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Mobilya"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Bankkart Gençlilere Marketlerde 750 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14025.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/bankkart-genclilere-marketlerde-750-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Elektrikli Şarj İstasyonlarında 750 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14007.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/akaryakit/elektrikli-sarj-istasyonlarinda-750-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "E-Ticaret Alışverişleriniz ile Toplam 500 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13991.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/e-ticaret/e-ticaret-alisverisleriniz-ile-toplam-500-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "E-Ticaret"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Troy Logolu Kredi Kartınıza Seçili Sektörlerde 1.500 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14037.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/troy-logolu-kredi-kartiniza-secili-sektorlerde-1500-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Bankkart Gençlilere Kafe ve Restoranlarda 750 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13993.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/bankkart-genclilere-kafe-ve-restoranlarda-750-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Restoran"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Optik Alışverişinize 500 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14038.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/kuyum-optik-ve-saat/optik-alisverisinize-500-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Hava Yolu Bilet Alımınıza 750 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14023.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/turizm-ve-seyahat/hava-yolu-bilet-aliminiza-750-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Seyahat"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Bankkart Gençlilere Kültür Sanatta 300 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14005.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/bankkart-genclilere-kultur-sanatta-300-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Giyim ve Ayakkabı Alışverişlerinize 3.500 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14058.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/giyim-ve-ayakkabi-alisverislerinize-3500-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Moda"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Taksitli Alışverişinize 5.000 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13980.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/taksitli-alisverisinize-5000-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Mobilya Alışverişinize 6.000 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13979.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/mobilya-alisverisinize-6000-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Mobilya"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Gürgençler'de 1.500 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13879.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/elektronik-ve-telekomunikasyon/gurgenclerde-1500-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Elektronik"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Elektronik ve Beyaz Eşya Alışverişlerinize 5.000 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13995.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/beyaz-esya-ve-ev-aletleri/elektronik-ve-beyaz-esya-alisverislerinize-5000-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Elektronik"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Ayın Sektörü: Kitap ve Kırtasiye",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14034.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/egitim-kitap-ve-kirtasiye/ayin-sektoru-kitap-ve-kirtasiye",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Eğitim"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Pazarama'da 200 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13890.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/e-ticaret/pazaramada-200-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "E-Ticaret"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Konyalı Saat'te 2.500 TL Bankkart Lira ve 6 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13966.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/kuyum-optik-ve-saat/konyali-saatte-2500-tl-bankkart-lira-ve-6-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
-        "kategori": "Moda"
-    },
-    {
-        "banka": "Bankkart",
-        "baslik": "Şubat Ayına Özel Toplam 2.500 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14055.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/subat-ayina-ozel-toplam-2500-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "baslik": "İlk Bankkart Kredi Kartınıza 5.000 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13845.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/ilk-bankkart-kredi-kartiniza-5000-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 86 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -956,47 +44,743 @@
         "baslik": "İlk Ek Kredi Kartınıza Marketlerde 1.000 TL Bankkart Lira",
         "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14033.vsf",
         "link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/ilk-ek-kredi-kartiniza-marketlerde-1000-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Diğer"
     },
     {
         "banka": "Bankkart",
-        "baslik": "Amazon'da 9 Taksit",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13969.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/e-ticaret/amazonda-9-taksit",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "baslik": "TotalEnergies'te 300 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13853.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/akaryakit/totalenergieste-300-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 12 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "M Oil'de 300 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13854.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/akaryakit/m-oilde-300-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 12 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Togg Trumore Mağaza'da 1.000 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13831.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/togg-trumore-magazada-1000-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 17 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Bankkart Prestij'inizle Priceless Deneyimler",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13819.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/bankkart-prestijinizle-priceless-deneyimler",
+        "tarih_bilgisi": "SON 331 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Monster Notebook'ta Peşin Fiyatına 12 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13968.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/elektronik-ve-telekomunikasyon/monster-notebookta-pesin-fiyatina-12-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Elektronik"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Türk Hava Yolları'nda 6 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13925.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/turizm-ve-seyahat/turk-hava-yollarinda-6-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Seyahat"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "1.000.000 TL'ye kadar Faizsiz 4 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13967.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/genel-kampanyalar/1000000-tlye-kadar-faizsiz-4-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Bankkart Prestij'inize Duty Free Alışverişlerinizde %15 İndirim",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13470.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/bankkart-prestijinize-duty-free-alisverislerinizde-15-indirim",
+        "tarih_bilgisi": "SON 56 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Bankkart Prestij'inize Yurt Dışı Restoranlarda %15 İndirim",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13476.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/bankkart-prestijinize-yurt-disi-restoranlarda-15-indirim",
+        "tarih_bilgisi": "SON 56 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Yurt Dışı Alışverişlerinize 5.000 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13822.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/yurt-disi-alisverislerinize-5000-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Trendyol'da 6'ya varan Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13927.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/e-ticaret/trendyolda-6ya-varan-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "E-Ticaret"
     },
     {
         "banka": "Bankkart",
-        "baslik": "Touristica'da 8.500 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14039.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/turizm-ve-seyahat/touristicada-8500-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "baslik": "Dyson'da Peşin Fiyatına 9 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13919.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/beyaz-esya-ve-ev-aletleri/dysonda-pesin-fiyatina-9-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Elektronik"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "ENPLUS'ta 6 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13929.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/beyaz-esya-ve-ev-aletleri/enplusta-6-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Diğer"
     },
     {
         "banka": "Bankkart",
-        "baslik": "Bankkart Genç ile QR Ödemelerinize 200 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14059.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/bankkart-genc-ile-qr-odemelerinize-200-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "baslik": "Miele'de 6 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13928.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/beyaz-esya-ve-ev-aletleri/mielede-6-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Elektronik"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "AJET'te 6 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13926.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/turizm-ve-seyahat/ajette-6-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Seyahat"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Taşıt Kredisi Kullanan Müşterilerimize Özel 2.500 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13796.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/akaryakit/tasit-kredisi-kullanan-musterilerimize-ozel-2500-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 56 GÜN",
         "kategori": "Diğer"
     },
     {
         "banka": "Bankkart",
-        "baslik": "Kültür Sanat Harcamalarınıza Toplam 500 TL BankkartLira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14060.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/kultur-sanat-harcamalariniza-toplam-500-tl-bankkartlira",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "baslik": "Karaca'da 3 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13923.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/beyaz-esya-ve-ev-aletleri/karacada-3-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Diğer"
     },
     {
         "banka": "Bankkart",
-        "baslik": "Kozmetik Alışverişlerinize 1.000 TL Bankkart Lira",
-        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14061.vsf",
-        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/kozmetik-alisverislerinize-1000-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "baslik": "Vestel'de 9 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13914.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/beyaz-esya-ve-ev-aletleri/vestelde-9-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Elektronik"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Beymen'de 4 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13930.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/beymende-4-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Vakko'da 4 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13931.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/vakkoda-4-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Beymen Club'da 4 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13932.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/beymen-clubda-4-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "W Collection'da 4 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13933.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/w-collectionda-4-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Mavi'de 4 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13934.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/mavide-4-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Barçın Spor'da 4 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13935.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/barcin-sporda-4-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Under Armour'da 4 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13918.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/under-armourda-4-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "A101'de 6 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13958.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/a101de-6-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Market"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Troy'da 3 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13893.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/elektronik-ve-telekomunikasyon/troyda-3-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Vatan'da 3 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13938.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/elektronik-ve-telekomunikasyon/vatanda-3-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Elektronik"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "NetWork'te 4 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13939.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/networkte-4-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Divarese'te 4 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13940.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/divaresete-4-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Ayakkabı Dünyası'nda 4 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13813.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/ayakkabi-dunyasinda-4-taksit",
+        "tarih_bilgisi": "SON 6 GÜN",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Skechers'ta 3 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13891.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/skechersta-3-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Ramsey'de 4 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13941.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/ramseyde-4-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "KİP'te 4 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13962.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/kipte-4-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "E-bebek'te 4 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13942.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/e-bebekte-4-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Benetton'da 2 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13892.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/benettonda-2-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Wall Street English'te 2 Ay Hediye Ders",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13745.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/egitim-kitap-ve-kirtasiye/wall-street-englishte-2-ay-hediye-ders",
+        "tarih_bilgisi": "SON 147 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "EBSCOhost'ta Ücretsiz Dijital Kütüphane!",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13651.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/egitim-kitap-ve-kirtasiye/ebscohostta-ucretsiz-dijital-kutuphane",
+        "tarih_bilgisi": "SON 331 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Rosetta Stone'da Ücretsiz Dil Eğitimi!",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13652.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/egitim-kitap-ve-kirtasiye/rosetta-stoneda-ucretsiz-dil-egitimi",
+        "tarih_bilgisi": "SON 331 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Enterprise'ta Araç Kiralamalarınızda %30 İndirim",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13838.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/turizm-ve-seyahat/enterpriseta-arac-kiralamalarinizda-30-indirim",
+        "tarih_bilgisi": "SON 331 GÜN",
+        "kategori": "Seyahat"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Yolcu360'ta Uçak Bileti Alımlarınıza 600 TL'ye varan İndirim!",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13490.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/turizm-ve-seyahat/yolcu360ta-ucak-bileti-alimlariniza-600-tlye-varan-indirim",
+        "tarih_bilgisi": "SON 56 GÜN",
+        "kategori": "Seyahat"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Yolcu360'ta Yurt İçi Araç Kiralamalarınızda %10 İndirim",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13877.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/turizm-ve-seyahat/yolcu360ta-yurt-ici-arac-kiralamalarinizda-10-indirim",
+        "tarih_bilgisi": "SON 331 GÜN",
+        "kategori": "Seyahat"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Yolcu360'ta Yurt Dışı Araç Kiralamalarınızda %15 İndirim",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13876.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/turizm-ve-seyahat/yolcu360ta-yurt-disi-arac-kiralamalarinizda-15-indirim",
+        "tarih_bilgisi": "SON 331 GÜN",
+        "kategori": "Seyahat"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "IKEA'da 6 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13943.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/ikeada-6-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Mobilya"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "PETLAS'ta Peşin Fiyatına 6 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13644.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/petlasta-pesin-fiyatina-6-taksit",
+        "tarih_bilgisi": "SON 147 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Jumbo'da 5 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13894.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/jumboda-5-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Alışverişlerinizi Sonradan Bankkart Lira ile Ödeyin!",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13751.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/genel-kampanyalar/alisverislerinizi-sonradan-bankkart-lira-ile-odeyin",
+        "tarih_bilgisi": "SON 331 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Faik Sönmez'de 3 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13895.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/faik-sonmezde-3-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Ipekyol'da 3 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13896.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/ipekyolda-3-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Suwen'de 3 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13944.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/suwende-3-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Sağlık Sektöründe +5 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13517.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/saglik-sektorunde-5-taksit",
+        "tarih_bilgisi": "SON 56 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "ModaLife'ta 9 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13945.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/modalifeta-9-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Kelebek'te 6 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13946.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/kelebekte-6-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Mobilya"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Doğtaş'ta 6 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13947.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/dogtasta-6-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Mobilya"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Twist'te 3 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13897.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/twistte-3-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Opmar Optik'te 4 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13898.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/kuyum-optik-ve-saat/opmar-optikte-4-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Dagi'de 2 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13899.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/dagide-2-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Machka'da 3 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13900.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/machkada-3-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Puffy'de 6'ya varan Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13948.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/puffyde-6ya-varan-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Ekstrenin Yarısını Bir Sonraki Aya Faizsiz Ertele!",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13750.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/genel-kampanyalar/ekstrenin-yarisini-bir-sonraki-aya-faizsiz-ertele",
+        "tarih_bilgisi": "SON 331 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Avva'da 2 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13909.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/avvada-2-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "İdaş'ta 9 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13921.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/idasta-9-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Çilek Mobilya'da 9 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13917.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/cilek-mobilyada-9-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Mobilya"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Abdullah Kiğılı'da 2 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13908.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/abdullah-kigilida-2-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Kiğılı'da 2 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13907.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/kigilida-2-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Mondihome'da 9 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13949.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/mondihomeda-9-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "İstikbal'de 9 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13956.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/istikbalde-9-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Desa'da 2 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13901.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/desada-2-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Bellona'da 9 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13950.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/bellonada-9-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Mobilya"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Daikin'de 6 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13913.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/yapi-sektoru-ve-iklimlendirme/daikinde-6-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Samsonite'ta 2 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13905.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/samsoniteta-2-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Oxxo'da 2 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13906.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/oxxoda-2-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Panço'da 3 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13912.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/pancoda-3-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Tespo'da 2 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13904.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/tespoda-2-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Continental'da 4 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13911.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/continentalda-4-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Otomotiv"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Alfemo'da 9 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13953.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/alfemoda-9-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Evidea'da 2 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13903.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/evideada-2-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Koçtaş'ta 2 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13902.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/yapi-sektoru-ve-iklimlendirme/koctasta-2-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Mobilya"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Alarko Carrier'da 6 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13910.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/yapi-sektoru-ve-iklimlendirme/alarko-carrierda-6-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Elektronik"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "E.C.A. Kombi'de 12 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13955.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/yapi-sektoru-ve-iklimlendirme/eca-kombide-12-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Uğur Derin Dondurucu'da 9 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13915.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/beyaz-esya-ve-ev-aletleri/ugur-derin-dondurucuda-9-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Decathlon'da 4 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13951.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/decathlonda-4-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "BAUHAUS'ta 3 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13952.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/yapi-sektoru-ve-iklimlendirme/bauhausta-3-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Mobilya"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Michelin'de 4 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13916.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/michelinde-4-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Otomotiv"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Roman'da 3 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13954.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/romanda-3-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Kafe ve Restoran Harcamalarınıza Toplam 450 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14024.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/kafe-ve-restoran-harcamalariniza-toplam-450-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Restoran"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "QR ile Ödemelerinize Toplam 100 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14026.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/qr-ile-odemelerinize-toplam-100-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Kocatepe Kahve Evi'nde 400 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14027.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/kocatepe-kahve-evinde-400-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Restoran"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Bankkart Genç'lilere Kocatepe Kahve Evi'nde 400 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14029.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/bankkart-genclilere-kocatepe-kahve-evinde-400-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Restoran"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Yapı Market Alışverişlerinize 500 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14013.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/yapi-sektoru-ve-iklimlendirme/yapi-market-alisverislerinize-500-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Market"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Klima ve Kombi Alışverişinize 1.000 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14030.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/yapi-sektoru-ve-iklimlendirme/klima-ve-kombi-alisverisinize-1000-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Giyim ve Ayakkabı Alışverişlerinize 3.500 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14058.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/giyim-ve-ayakkabi-alisverislerinize-3500-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Moda"
     },
     {
@@ -1004,7 +788,223 @@
         "baslik": "Bankkart Gençlilere Giyimde Toplam 500 TL Bankkart Lira",
         "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14062.vsf",
         "link": "https://www.bankkart.com.tr/kampanyalar/giyim-ve-aksesuar/bankkart-genclilere-giyimde-toplam-500-tl-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Market Alışverişlerinize 1.000 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14036.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/market-alisverislerinize-1000-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 12 GÜN",
+        "kategori": "Market"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Touristica'da 8.500 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14039.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/turizm-ve-seyahat/touristicada-8500-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Coral Travel'da 8.500 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14054.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/turizm-ve-seyahat/coral-travelda-8500-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Taksitli Alışverişinize 5.000 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13980.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/taksitli-alisverisinize-5000-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Konyalı Saat'te 2.500 TL Bankkart Lira ve 6 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13966.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/kuyum-optik-ve-saat/konyali-saatte-2500-tl-bankkart-lira-ve-6-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Emeklilerimizin Market Alışverişlerine Toplam 1.500 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13986.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/emeklilerimizin-market-alisverislerine-toplam-1500-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Market"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Emeklilerimizin Sağlık Harcamalarında 1.500 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13985.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/emeklilerimizin-saglik-harcamalarinda-1500-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Emeklilerimizin Seçili Sektörlerdeki Alışverişlerine 3.000 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13984.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/emeklilerimizin-secili-sektorlerdeki-alisverislerine-3000-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Bankkart Gençlilere Kitap ve Kırtasiyede 750 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14028.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/egitim-kitap-ve-kirtasiye/bankkart-genclilere-kitap-ve-kirtasiyede-750-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Eğitim"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Ev Tekstili ve Züccaciye Alışverişlerinizde Toplam 600 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14045.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/ev-tekstili-ve-zuccaciye-alisverislerinizde-toplam-600-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Mobilya"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Kozmetik Alışverişlerinize 1.000 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14061.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/kozmetik-alisverislerinize-1000-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Pazarama'da 200 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14066.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/e-ticaret/pazaramada-200-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 12 GÜN",
+        "kategori": "E-Ticaret"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Bankkart Gençlilere Marketlerde 750 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14025.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/bankkart-genclilere-marketlerde-750-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Elektrikli Şarj İstasyonlarında 750 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14069.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/akaryakit/elektrikli-sarj-istasyonlarinda-750-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "E-Ticaret Alışverişleriniz ile Toplam 500 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13991.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/e-ticaret/e-ticaret-alisverisleriniz-ile-toplam-500-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "E-Ticaret"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Troy Logolu Kredi Kartınıza Seçili Sektörlerde 1.500 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14037.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/troy-logolu-kredi-kartiniza-secili-sektorlerde-1500-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Bankkart Gençlilere Kafe ve Restoranlarda 750 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13993.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/bankkart-genclilere-kafe-ve-restoranlarda-750-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Restoran"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Optik Alışverişinize 500 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14038.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/kuyum-optik-ve-saat/optik-alisverisinize-500-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Hava Yolu Bilet Alımınıza 750 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14023.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/turizm-ve-seyahat/hava-yolu-bilet-aliminiza-750-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Seyahat"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Bankkart Gençlilere Kültür Sanatta 300 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14005.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/bankkart-genclilere-kultur-sanatta-300-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Mobilya Alışverişinize 6.000 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13979.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/mobilya-alisverisinize-6000-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Mobilya"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Gürgençler'de 1.500 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13879.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/elektronik-ve-telekomunikasyon/gurgenclerde-1500-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Elektronik"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Elektronik ve Beyaz Eşya Alışverişlerinize 5.000 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13995.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/beyaz-esya-ve-ev-aletleri/elektronik-ve-beyaz-esya-alisverislerinize-5000-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Elektronik"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Ayın Sektörü: Kitap ve Kırtasiye",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14034.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/egitim-kitap-ve-kirtasiye/ayin-sektoru-kitap-ve-kirtasiye",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Eğitim"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Amazon'da 9 Taksit",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-13969.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/e-ticaret/amazonda-9-taksit",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "E-Ticaret"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Bankkart Genç ile QR Ödemelerinize 200 TL Bankkart Lira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14059.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/bankkart-genc-ile-qr-odemelerinize-200-tl-bankkart-lira",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bankkart",
+        "baslik": "Kültür Sanat Harcamalarınıza Toplam 500 TL BankkartLira",
+        "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14060.vsf",
+        "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/kultur-sanat-harcamalariniza-toplam-500-tl-bankkartlira",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -1012,8 +1012,16 @@
         "baslik": "Bankkart Gençlilere Dijital Platform Ödemelerinde %50 Bankkart Lira",
         "resim": "https://bankkart.com.tr/medium/Campaign-DetailImage-14065.vsf",
         "link": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/bankkart-genclilere-dijital-platform-odemelerinde-50-bankkart-lira",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Diğer"
+    },
+    {
+        "banka": "Maximum",
+        "baslik": "ETS’deki Seçili Oteller ve Turlarda 7.500 TL’ye Varan MaxiPuan Fırsatı!",
+        "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/ETStur_1025_new_580x460.jpg",
+        "link": "https://www.maximum.com.tr/kampanyalar/maxiumumdan-etsde-maxipuan-firsati",
+        "tarih_bilgisi": "",
+        "kategori": "Seyahat"
     },
     {
         "banka": "Maximum",
@@ -1066,16 +1074,40 @@
     {
         "banka": "Maximum",
         "baslik": "Sevgililer Günü MaxiPuan Kampanyası",
-        "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/kampanyagorselleri/bireysel/2024/sbtgiyim_kozmetik_Giyim_Kozmetik_580x460.jpg",
+        "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/kampanyagorselleri/bireysel/2024/sbt_Maximum-Sevgililer-Gunu-580x460.jpg",
         "link": "https://www.maximum.com.tr/kampanyalar/sevgililer-gunu-maxipuan-kampanyasi",
         "tarih_bilgisi": "",
         "kategori": "Diğer"
     },
     {
         "banka": "Maximum",
-        "baslik": "Sömestr tatilinde sinema keyfi Maximum’da! Filmini seç, fırsattan yararlan!",
-        "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/kampanyagorselleri/bireysel/Sinema_kmpyasi_580x460.jpg",
-        "link": "https://www.maximum.com.tr/kampanyalar/somestr-tatilinde-sinema-keyfi-maximumda-filmini-sec-firsattan-yararlan",
+        "baslik": "Gelir Vergisi, Motorlu Taşıtlar Vergisi, Tapu Harç ve Emlak Vergisi Ödemelerinize Sonradan 3 Aya Varan Taksit Fırsatı!",
+        "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/kampanyagorselleri/bireysel/2023/Kasim/vVergi_580x460.jpg",
+        "link": "https://www.maximum.com.tr/kampanyalar/gelir-vergisi-ve-tapu-harc-odemelerinize-3-taksit-firsati",
+        "tarih_bilgisi": "",
+        "kategori": "Eğitim"
+    },
+    {
+        "banka": "Maximum",
+        "baslik": "Eğitim Ödemelerinizde Seçili Okullarda 4 Aya Varan Faizsiz Taksit Fırsatı!",
+        "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/kampanyagorselleri/bireysel/2023/Eylul/sbttegtm_580x460.jpg",
+        "link": "https://www.maximum.com.tr/kampanyalar/okul-odemelerinizi-faizsiz-taksitlendirin",
+        "tarih_bilgisi": "",
+        "kategori": "Eğitim"
+    },
+    {
+        "banka": "Maximum",
+        "baslik": "Eğitim Ödemelerinize İlave 5 Aya Varan Taksit Fırsatı!",
+        "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/EgitimilaveTaksit_0126_580x460.jpg",
+        "link": "https://www.maximum.com.tr/kampanyalar/egitim-odemelerinize-ilave-taksit-firsati",
+        "tarih_bilgisi": "",
+        "kategori": "Eğitim"
+    },
+    {
+        "banka": "Maximum",
+        "baslik": "Peşin Sağlık Harcamalarınızda 2 Ay Faizsiz Taksitlendirme Fırsatı!",
+        "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/kampanyagorselleri/bireysel/Saglik_Sektoru_Taksitlendirme580x460.jpg",
+        "link": "https://www.maximum.com.tr/kampanyalar/saglik-odemelerinizi-faizsiz-taksitlendirin",
         "tarih_bilgisi": "",
         "kategori": "Diğer"
     },
@@ -1113,14 +1145,6 @@
     },
     {
         "banka": "Maximum",
-        "baslik": "Yurt Dışı Harcamalarınız ve Yurt içi Duty Free Alışverişlerinize 2.000 TL’ye Varan MaxiPuan!",
-        "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/Yurtdisi_0725_580x460.jpg",
-        "link": "https://www.maximum.com.tr/kampanyalar/yurt-disi-alisverisinize-maxipuan-firsati",
-        "tarih_bilgisi": "",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Maximum",
         "baslik": "Maximum Uniq BKM Etkinliklerinde Maximum Kart’a %10 Geri Kazanın!",
         "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/kampanyagorselleri/bireysel/Uniq_maximum_580x460.jpg",
         "link": "https://www.maximum.com.tr/kampanyalar/maximum-uniq-bkm-etkinliklerinde-maximum-karta-yuzde-10-geri-kazanin",
@@ -1130,7 +1154,7 @@
     {
         "banka": "Maximum",
         "baslik": "Paşabahçe'de 4 taksit fırsatı!",
-        "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/kampanyagorselleri/bireysel/2024/BAN-10312_Pasabahce_580x460.jpg",
+        "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/kampanyagorselleri/bireysel/2024/pbbsbt_580x460.jpg",
         "link": "https://www.maximum.com.tr/kampanyalar/pasabahcede-taksit-firsati",
         "tarih_bilgisi": "",
         "kategori": "Diğer"
@@ -1172,6 +1196,14 @@
         "baslik": "Eleventy'de Vade Farksız 6 Taksit Fırsatı!",
         "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/kampanyagorselleri/bireysel/BAN-11309_Eleventy_580x460.jpg",
         "link": "https://www.maximum.com.tr/kampanyalar/eleventyde-taksit-firsati",
+        "tarih_bilgisi": "",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Maximum",
+        "baslik": "Paşabahçe'de 10.000 TL ve üzeri alışverişlerinizde 6 taksit fırsatı!",
+        "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/kampanyagorselleri/bireysel/2024/sbtt_Pasabahce_580x460_2.jpg",
+        "link": "https://www.maximum.com.tr/kampanyalar/pasabahcede-6taksit-firsati",
         "tarih_bilgisi": "",
         "kategori": "Diğer"
     },
@@ -1257,14 +1289,6 @@
     },
     {
         "banka": "Maximum",
-        "baslik": "Ocak Ayında Yapacağınız Maximum TEMA Kart Başvurunuz Bir Fidan Olsun!",
-        "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/kampanyagorselleri/bireysel/MaximumTEMAKart_Basvuru_580x460.jpg",
-        "link": "https://www.maximum.com.tr/kampanyalar/maximum-tema-kart-basvurunuz-bir-fidan-olsun",
-        "tarih_bilgisi": "",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Maximum",
         "baslik": "MediaMarkt'ta 9 aya varan Taksit Fırsatı!",
         "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/MediaMarkt__1125_tkst_580x460.jpg",
         "link": "https://www.maximum.com.tr/kampanyalar/mediamarktta-taksit-firsati",
@@ -1345,6 +1369,14 @@
     },
     {
         "banka": "Maximum",
+        "baslik": "Sportive'de 1.250 TL'ye varan MaxiPuan!",
+        "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/kampanyagorselleri/bireysel/2024/e8_Sportive_580x460.jpg",
+        "link": "https://www.maximum.com.tr/kampanyalar/sportivede-maxipuan-kampanyasi",
+        "tarih_bilgisi": "",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Maximum",
         "baslik": "Kiko Milano'da 250 TL'ye varan MaxiPuan!",
         "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/Kiko-Milano_0125_580x460.jpg",
         "link": "https://www.maximum.com.tr/kampanyalar/kiko-milanoda-maxipuan-firsati",
@@ -1358,14 +1390,6 @@
         "link": "https://www.maximum.com.tr/kampanyalar/under-armourda-maxipuan-firsati",
         "tarih_bilgisi": "",
         "kategori": "Moda"
-    },
-    {
-        "banka": "Maximum",
-        "baslik": "Toyzz Shop'ta 400 TL MaxiPuan!",
-        "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/Toyzz-Shop_mp_0126_580x460px.jpg",
-        "link": "https://www.maximum.com.tr/kampanyalar/toyzz-shopta-maxipuan-firsati",
-        "tarih_bilgisi": "",
-        "kategori": "Diğer"
     },
     {
         "banka": "Maximum",
@@ -1388,14 +1412,6 @@
         "baslik": "Toyzz Shop’ta Peşin Fiyatına 5 Taksit Fırsatı!",
         "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/kampanyagorselleri/bireysel/2023/Subat/m20_ToyzzShop_580x460.jpg",
         "link": "https://www.maximum.com.tr/kampanyalar/toyzz-shopta-taksit-firsati",
-        "tarih_bilgisi": "",
-        "kategori": "Diğer"
-    },
-    {
-        "banka": "Maximum",
-        "baslik": "Yurt Dışı Alışverişlerinize Toplam 1.500 TL’ye Varan MaxiPuan!",
-        "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/kampanyagorselleri/bireysel/2024/ocakyd_580x460.jpg",
-        "link": "https://www.maximum.com.tr/kampanyalar/yurt-disi-alisverislerinize-maxipuan-kampanyasi",
         "tarih_bilgisi": "",
         "kategori": "Diğer"
     },
@@ -1494,6 +1510,14 @@
         "link": "https://www.maximum.com.tr/kampanyalar/koctasta-4-taksit-firsati",
         "tarih_bilgisi": "",
         "kategori": "Mobilya"
+    },
+    {
+        "banka": "Maximum",
+        "baslik": "Gürgençler mağazaları ve www.gurgencler.com.tr adresinden yapacağınız MacBook alışverişlerinizde Ekim ayına özel peşin fiyatına 12 aya varan taksit fırsatı!",
+        "resim": "https://www.maximum.com.tr/contentmanagement/PublishingImages/kampanyagorselleri/bireysel/2024/Gurgencler_580x460.jpg",
+        "link": "https://www.maximum.com.tr/kampanyalar/gurgencler-magazalarinda-macbook-alisverislerinize-ozel-taksit-firsati",
+        "tarih_bilgisi": "",
+        "kategori": "Elektronik"
     },
     {
         "banka": "Maximum",
@@ -2073,6 +2097,14 @@
     },
     {
         "banka": "Paraf",
+        "baslik": "Touristica.com.tr'de 8.500 TL'ye varan ParafPara ve Peşin fiyatına 9 Taksit!",
+        "resim": "https://www.paraf.com.tr/content/dam/parafcard/images/campaigns/seyahat/2026/subat/touyeni600x960.jpg",
+        "link": "https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/seyahat/touristica-com-tr-de-8500tlye-varan-parafpara-ve-pesin-fiyatina-9-taksit-subat.html",
+        "tarih_bilgisi": "",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Paraf",
         "baslik": "Pazarama’da Peşin Fiyatına 6 Taksit",
         "resim": "https://www.paraf.com.tr/content/dam/parafcard/images/campaigns/e-ticaret/2024/mayis/pazarama600x960.jpg",
         "link": "https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/e-ticaret/pazaramada-pesin-fiyatina-6-taksit1.html",
@@ -2252,6 +2284,14 @@
         "baslik": "Paraf Mastercard'ınıza Özel Google Play Harcamalarınızda %50 İndirim",
         "resim": "https://www.paraf.com.tr/content/dam/parafcard/images/campaigns/diger-firsatlar/2025/aralik/googleplay-600x960.jpg",
         "link": "https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/diger-firsatlar/paraf-mastercardiniza-ozel-google-play-harcamalarinizda-yuzde50-indirim.html",
+        "tarih_bilgisi": "",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Paraf",
+        "baslik": "Germencik Organik Pazar'da %11 İndirim",
+        "resim": "https://www.paraf.com.tr/content/dam/parafcard/images/campaigns/diger-firsatlar/2025/aralik/germencik-600x960.jpg",
+        "link": "https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/diger-firsatlar/germencik-organik-pazarda-yuzde11-indirim.html",
         "tarih_bilgisi": "",
         "kategori": "Diğer"
     },
@@ -2828,7 +2868,7 @@
         "baslik": "Bellona’da peşin fiyatına 9 aya varan taksit fırsatı!",
         "resim": "https://www.worldcard.com.tr/getmedia/6b21304b-6c68-4834-8095-e0c330f3ec49/bellona-haziran.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/bellonada-9-aya-varan-taksit-firsati-ocak",
-        "tarih_bilgisi": "SON 57 GÜN",
+        "tarih_bilgisi": "SON 56 GÜN",
         "kategori": "Mobilya"
     },
     {
@@ -2836,7 +2876,7 @@
         "baslik": "Mondihome’da peşin fiyatına 9 aya varan taksit fırsatı!",
         "resim": "https://www.worldcard.com.tr/getmedia/7d361ce3-fbb5-430f-a5a3-2daac75e381f/mondihome-fotograf.jpg?width=1119&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/mondihomeda-pesin-fiyatina-9-aya-varan-taksit-firsati-ocak",
-        "tarih_bilgisi": "SON 57 GÜN",
+        "tarih_bilgisi": "SON 56 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2844,7 +2884,7 @@
         "baslik": "Beko’da peşin fiyatına 9 aya varan taksit!",
         "resim": "https://www.worldcard.com.tr/getmedia/b6621f6c-79ca-419e-83b6-f724573f01b6/BEKO.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/bekoda-pesin-fiyatina-9-aya-varan-taksit-ocak",
-        "tarih_bilgisi": "SON 57 GÜN",
+        "tarih_bilgisi": "SON 56 GÜN",
         "kategori": "Elektronik"
     },
     {
@@ -2852,7 +2892,7 @@
         "baslik": "Fenerbahçe Worldcard ile 1 Ocak – 28 Şubat 2026 tarihleri arasında lacivert tur, sarı tur ve müze turunda yapacağınız harcamalarda %20, toplamda 100 TL’ye varan indirim fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/d3cf339d-251e-4dcf-8c95-cdf70d1ee011/FB-muze-gorsel.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/fenerbahce-worldcard-ile-lacivert-tur-sari-tur-ve-muze-turunda-20-toplamda-100-tlye-varan-indirim-oc",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2860,7 +2900,7 @@
         "baslik": "Silver logolu Mastercard sahipleri Raffles İstanbul’da %15 indirim & Spa’da %20 indirim kazanıyor!",
         "resim": "https://www.worldcard.com.tr/getmedia/c47eefca-5cc3-42ec-9a2e-c198619ab7a9/RAFFLES_1125x633.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/silver-logolu-mastercardiniza-ozel-raffles-istanbulda-15-indirim-and-spada-20-indirim-firsati",
-        "tarih_bilgisi": "SON 112 GÜN",
+        "tarih_bilgisi": "SON 111 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2868,7 +2908,7 @@
         "baslik": "Mastercard logolu Yapı kredi banka kartı ve kredi kartı sahiplerine Enuygun’da 6.000 TL ve üzeri uçak biletlerinde 1.000 TL indirim!",
         "resim": "https://www.worldcard.com.tr/getmedia/15e50f81-b717-4309-9242-aa2cbbb8a422/ENUYGUN_1125x633.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/mastercard-sahiplerine-ozel-enuygunda-6000-tl-ve-uzeri-ucak-biletlerinde-1000-tl-indirim",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Seyahat"
     },
     {
@@ -2876,7 +2916,7 @@
         "baslik": "Silver logolu Mastercard sahipleri İstanbul Havalimanı içerisinde bulunan İGA Pass satış noktalarından aldığı “İGA Pass Mastercard” paketinden 50% indirim ile yararlanabiliyor!",
         "resim": "https://www.worldcard.com.tr/getmedia/6a7a6722-1c22-4537-a5cf-83c24e64b6ad/1125x633-IGA-Pass.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/silver-logolu-mastercardiniza-ozel-iga-pass-satis-noktalarindan-aldiginiz-iga-pass-mastercard",
-        "tarih_bilgisi": "SON 57 GÜN",
+        "tarih_bilgisi": "SON 56 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2884,7 +2924,7 @@
         "baslik": "Masterpass hesabına kayıtlı Silver logolu Mastercard kredi kartı ile Galataport’ta yapacağınız otopark harcamanız 1 TL!",
         "resim": "https://www.worldcard.com.tr/getmedia/8695c328-0615-46d7-bf57-c3a7afef5d6d/WM_Galataport_Otopark_1125x633_3.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/silver-logolu-mastercardiniza-ozel-galataportta-otopark-1-tl",
-        "tarih_bilgisi": "SON 57 GÜN",
+        "tarih_bilgisi": "SON 56 GÜN",
         "kategori": "Otomotiv"
     },
     {
@@ -2892,7 +2932,7 @@
         "baslik": "20 Ağustos 2025-28 Şubat 2026 tarihleri arasında UTTS’li aracınızla Opet istasyonlarında yapacağınız her akaryakıt alımına %5 indirim!",
         "resim": "https://www.worldcard.com.tr/getmedia/42a36db4-9481-49f6-afac-b184b56be43d/World_13.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/uttsli-aracinizla-28-subat-2025ya-kadar-yapacaginiz-her-akaryakit-alimina-5-indirim",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Akaryakıt"
     },
     {
@@ -2900,7 +2940,7 @@
         "baslik": "Silver logolu Mastercard sahiplerine 150 Euro / 150 USD ve üzeri yurt dışı restoran ve kafe ödemelerinde % 15 indirim fırsatı!",
         "resim": "https://www.worldcard.com.tr/getmedia/62e29ed0-a34b-4fa9-8436-c465c56e0d52/1125x633-Restoran.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/silver-logolu-mastercardiniza-ozel-yurt-disi-restoran-ve-kafe-odemelerinde-15-indirim",
-        "tarih_bilgisi": "SON 57 GÜN",
+        "tarih_bilgisi": "SON 56 GÜN",
         "kategori": "Restoran"
     },
     {
@@ -2908,7 +2948,7 @@
         "baslik": "Silver logolu Mastercard sahiplerine 150€/ 150$ ve üzeri yurt dışı Duty Free harcamalarında % 15 indirim!",
         "resim": "https://www.worldcard.com.tr/getmedia/9b2eb48f-702c-44c5-9f0c-5d73bc65cca7/mc-duty-free.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/silver-logolu-mastercardiniza-ozel-yurt-disi-duty-freelerde-15-indirim-firsati",
-        "tarih_bilgisi": "SON 57 GÜN",
+        "tarih_bilgisi": "SON 56 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2916,7 +2956,7 @@
         "baslik": "Silver logolu Mastercard sahipleri 1 Mayıs 2025 – 31 Mart 2026 tarihleri arasında Sabiha Gökçen Havalimanı’nda ALLWAYS Fast Track/Hızlı Geçiş hizmetinden ücretsiz faydalanabiliyor!",
         "resim": "https://www.worldcard.com.tr/getmedia/fe6b9587-8e4b-4c36-a6c6-227f5bf037f8/hizli-gecis.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/silver-logolu-mastercardiniza-ozel-sabiha-gokcen-havalimaninda-ucretsiz-allways-fast-trackhizli-geci",
-        "tarih_bilgisi": "SON 57 GÜN",
+        "tarih_bilgisi": "SON 56 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2924,7 +2964,7 @@
         "baslik": "İgdaş fatura ödemelerine ücretsiz 3 taksit imkanı!",
         "resim": "https://www.worldcard.com.tr/getmedia/4b8dbfeb-81ea-467e-bb89-1ce82ff3e788/igdas-3-taksit.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/igdas-fatura-odemelerine-ucretsiz-3-taksit-imkani-aralik",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Vergi"
     },
     {
@@ -2932,7 +2972,7 @@
         "baslik": "Troy logolu Yapı Kredi banka kartı, ön ödemeli kart veya kredi kartı ile Türk Hava Yolları web sitesi veya mobil uygulaması üzerinden indirim kodu ile yapılacak yurt içi veya Türkiye çıkışlı yurt dışı bileti ödemelerinde her bir bilet için 500 TL indirim!",
         "resim": "https://www.worldcard.com.tr/getmedia/f3afe83c-6dd1-43b8-bdcd-b33a19e6d6db/1.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/troy-logolu-yapi-kredi-kart-sahiplerine-ozel-turk-hava-yollarinda-gecerli-yurt-ici-veya-turkiye-ciki",
-        "tarih_bilgisi": "SON 41 GÜN",
+        "tarih_bilgisi": "SON 40 GÜN",
         "kategori": "Seyahat"
     },
     {
@@ -2940,7 +2980,7 @@
         "baslik": "Fenerbahçe Worldcard ile 1 Ocak – 28 Şubat 2026 tarihleri arasında Fenerbahçe SK Serkan Acar Resort & Sports Topuk Yaylası’nda yapacağınız 5800 TL ve üzeri harcamaya 300 TL Worldpuan fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/4bf50396-2501-43c5-8073-3b09f748579e/Topuk-yaylasi-gorsel.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/fenerbahce-worldcarda-ozel-fenerbahce-sk-serkan-acar-resort-and-sports-topuk-yaylasinda-aralik",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2948,7 +2988,7 @@
         "baslik": "Petrol Ofisi istasyonlarında 1000 TL ve üzeri 4 harcamandan birini World Pay POS’ta QR Kod ile gerçekleştir, 300TL’ye ek 50 TL, toplamda 350TL Petrol Ofisi Puan kazan!",
         "resim": "https://www.worldcard.com.tr/getmedia/e21bcc39-e164-49cb-b191-e3383a9fa2be/PO25_0259_YAPI_KREDI_KAM_Dig_1125x633_1.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/petrol-ofisi-istasyonlarinda-1000-tl-ve-uzeri-4-harcamadan-birini-world-pay-ile-gerceklestirenlere",
-        "tarih_bilgisi": "SON 13 GÜN",
+        "tarih_bilgisi": "SON 12 GÜN",
         "kategori": "Akaryakıt"
     },
     {
@@ -2956,7 +2996,7 @@
         "baslik": "Petrol Ofisi istasyonlarında 4 adet 1000TL ve üzeri akaryakıt alımına 300TL Petrol Ofisi Puan!",
         "resim": "https://www.worldcard.com.tr/getmedia/e21bcc39-e164-49cb-b191-e3383a9fa2be/PO25_0259_YAPI_KREDI_KAM_Dig_1125x633_1.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/petrol-ofisi-istasyonlarinda-4-adet-1000tl-ve-uzeri-akaryakit-alimina-300tl-petrol-ofisi-puan",
-        "tarih_bilgisi": "SON 13 GÜN",
+        "tarih_bilgisi": "SON 12 GÜN",
         "kategori": "Akaryakıt"
     },
     {
@@ -2964,7 +3004,7 @@
         "baslik": "World Cinezone’da sinemanın keyfini çıkarırken, yapacağınız tüm büfe harcamalarında %10 indirim.",
         "resim": "https://www.worldcard.com.tr/getmedia/1239931c-b290-457f-8b2c-61952e482812/world-cinezone1125x633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/world-cinezone-sinema-bufelerindeki-yeme-icme-harcamalarinda-10-indirim-2026",
-        "tarih_bilgisi": "SON 332 GÜN",
+        "tarih_bilgisi": "SON 331 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2972,7 +3012,7 @@
         "baslik": "Turkcell Pasaj’da peşin fiyatına 3 taksit!",
         "resim": "https://www.worldcard.com.tr/getmedia/fa4cbc23-0a3f-47dc-b94a-6e27cd92f5fc/turkcell-pasaj-(1).jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/turkcellpasajda-pesin-fiyatina-3-taksit-ocak",
-        "tarih_bilgisi": "SON 13 GÜN",
+        "tarih_bilgisi": "SON 12 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2980,7 +3020,7 @@
         "baslik": "İstikbal’de peşin fiyatına 9 aya varan taksit fırsatı!",
         "resim": "https://www.worldcard.com.tr/getmedia/976f7228-627d-43c9-8306-9007c051e79c/istikbal-gorsel.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/istikbalde-pesin-fiyatina-9-aya-varan-taksit-firsati-ocak",
-        "tarih_bilgisi": "SON 57 GÜN",
+        "tarih_bilgisi": "SON 56 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2988,7 +3028,7 @@
         "baslik": "05 Ocak 2026 – 03 Ocak 2027 tarihleri arasında IKEA mağazalarından ve IKEA.com.tr’den IKEA Aile ve Worldcard ile yapacağınız 7.500 TL ve üzeri alışverişte peşin fiyatına 6 taksit fırsatını kaçırmayın.",
         "resim": "https://www.worldcard.com.tr/getmedia/34cc601b-c380-4e98-b96b-89a170a6b083/PH205777.jpg?width=2133&height=1200&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/ikeada-pesin-fiyatina-6-taksit-firsati-2026",
-        "tarih_bilgisi": "SON 335 GÜN",
+        "tarih_bilgisi": "SON 334 GÜN",
         "kategori": "Mobilya"
     },
     {
@@ -2996,7 +3036,7 @@
         "baslik": "31 Aralık 2026 tarihine kadar Civil alışverişlerinizde peşin fiyatına 6 aya varan taksit fırsatını kaçırmayın.",
         "resim": "https://www.worldcard.com.tr/getmedia/413671f6-9b3a-4655-acb0-c2d88ef03e83/gorsel-(1).png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/civilde-pesin-fiyatina-6-aya-varan-taksit",
-        "tarih_bilgisi": "SON 332 GÜN",
+        "tarih_bilgisi": "SON 331 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3004,7 +3044,7 @@
         "baslik": "Knitss mağazalarından ve online mağaza www.knitss.com'dan tek seferde yapılacak peşin veya taksitli 15.000 TL ve üzeri alışverişlere 2.000 TL değerinde Worldpuan fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/e82bb9a1-25ce-4af7-90fc-7f4e135a344b/ApresSki.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/knitsste-2000-tl-worldpuan-ocak",
-        "tarih_bilgisi": "SON 13 GÜN",
+        "tarih_bilgisi": "SON 12 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3012,7 +3052,7 @@
         "baslik": "20 Ocak -19 Şubat 2026 tarihleri arasında, bankamızdaki varlığınıza bağlı olarak, Mastercard logolu kartınız ile online olarak tek seferde yapacağınız 5.000 TL ve üzeri yurt dışı harcamanıza 250 TL Worldpuan kazanma fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/f3a5bc91-36cd-4309-a433-77ed174388bf/sanal-pos.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/mastercard-logolu-kartiniz-ile-yurt-disi-online-alisverislerinizde-250-tl-worldpuan",
-        "tarih_bilgisi": "SON 17 GÜN",
+        "tarih_bilgisi": "SON 16 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3020,7 +3060,7 @@
         "baslik": "20 Ocak – 19 Şubat 2026 tarihleri arasında Yabancı Dizi ve Film Platformları harcamalarınızda işlem başı %50, toplamda 150 TL’ye varan indirim kazanma fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/53094515-4b8b-4e6e-ac41-6aee852c9736/Dizi-Film-World-1125x633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/mastercard-logolu-kartiniz-ile-yabanci-dizi-ve-film-platformlarindan-yapacaginiz-harcamalara-50-indi",
-        "tarih_bilgisi": "SON 17 GÜN",
+        "tarih_bilgisi": "SON 16 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3028,7 +3068,7 @@
         "baslik": "20 Ocak – 19 Şubat 2026 tarihleri arasında seçili çevrimiçi müzik, oyun ve video platformları ödemelerinizde harcadığınız kadar, toplamda 300 TL’ye varan indirim kazanma fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/d52d13ce-798e-497e-b65c-ac0e97972691/World-Muzik-1125x633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/mastercard-logolu-kartiniz-ile-cevrimici-muzik-oyun-ve-video-platformlarindan-yapacaginiz-harcamalar",
-        "tarih_bilgisi": "SON 17 GÜN",
+        "tarih_bilgisi": "SON 16 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3036,7 +3076,7 @@
         "baslik": "31 Aralık 2026 tarihine kadar Opmar Optik alışverişlerinizde peşin fiyatına 6 aya varan taksit fırsatını kaçırmayın.",
         "resim": "https://www.worldcard.com.tr/getmedia/49a8c495-bf48-483a-b5f9-af48f2ff1345/1125x633px-Opmar-Optik-Gorsel.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/opmar-optikte-pesin-fiyatina-6-aya-varan-taksit",
-        "tarih_bilgisi": "SON 332 GÜN",
+        "tarih_bilgisi": "SON 331 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3044,7 +3084,7 @@
         "baslik": "e-Hamal.com’da 3.000 TL alışverişe 500 TL Worldpuan ve 500 TL indirim! Chippin uygulaması üzerinden yapacağınız alışverişinize ek 50 TL Worldpuan!",
         "resim": "https://www.worldcard.com.tr/getmedia/5bef69c7-21ca-4c60-99b1-70a5abd404e1/ehamal_banka_1125x633_subat.png?width=1126&height=634&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/e-hamalcomda-3000-tl-alisverisinize-500-tl-worldpuan-ve-500-tl-indirim-ustelik-chippin-subat",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3052,7 +3092,7 @@
         "baslik": "World’e özel Civil’den tek seferde yapılacak 1.500 TL ve üzeri alışverişe 200 TL değerinde Worldpuan! Üstelik Chippin uygulaması üzerinden Civil mağazalarında yapacağınız 1.500 TL ve üzeri alışverişe ek 100 TL Worldpuan!",
         "resim": "https://www.worldcard.com.tr/getmedia/01cbe53d-e827-4de6-ae97-259c39869bcd/civil_banka_1125x633_Subat.png?width=1126&height=634&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/civilde-200-tl-worldpuan-kazanma-firsati-subat",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3060,7 +3100,7 @@
         "baslik": "World’e özel LC Waikiki’den tek seferde yapılacak 2.000 TL ve üzeri alışverişe 250 TL, 4.000 TL ve üzeri alışverişe 500 TL değerinde Worldpuan! Üstelik Chippin uygulaması üzerinden LC Waikiki mağazalarından yapacağınız 2.000 TL ve üzeri alışverişe ek 100 TL, 4.000 TL ve üzeri alışverişe ek 200 TL değerinde Worldpuan!",
         "resim": "https://www.worldcard.com.tr/getmedia/1c0b6fec-2c57-4208-9213-c6f595fab962/lcw_-subat.png?width=1126&height=634&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/worlde-ozel-lc-waikikide-500-tlye-varan-worldpuan-subat",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Moda"
     },
     {
@@ -3068,7 +3108,7 @@
         "baslik": "World’e özel 1-28 Şubat 2026 tarihleri arasında www.divanpastaneleri.com.tr’den yapacağınız alışverişinize 100 TL Worldpuan kazanma fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/940a759f-1574-43dd-86b4-d0350138eafc/divan-pastaneleri.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/divanpastanelericomtrde-100-tl-worldpuan-subat-2026",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3076,7 +3116,7 @@
         "baslik": "MediaMarkt.com.tr’de  20.000 TL ve üzeri alışverişe 2.000 TL Worldpuan! Üstelik peşin fiyatına 6 aya varan taksit fırsatı!",
         "resim": "https://www.worldcard.com.tr/getmedia/4b631be5-1126-4ba7-8dfa-b234aefe04e9/mediamarkt_1.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/mediamarktcomtrde-2000-tl-worldpuan-subat",
-        "tarih_bilgisi": "SON 4 GÜN",
+        "tarih_bilgisi": "SON 3 GÜN",
         "kategori": "Elektronik"
     },
     {
@@ -3084,7 +3124,7 @@
         "baslik": "World’e özel tek seferde yapılacak 1.500 TL ve üzeri D&R alışverişlerinize 150 TL, World Pay ile ek 50 TL, toplam 200 TL D&R Puan fırsatını kaçırmayın! Üstelik 7 taksit!",
         "resim": "https://www.worldcard.com.tr/getmedia/703661b3-527a-4ec2-9e15-11300320f022/d-r.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/dandrda-200-tlye-varan-dandr-puan-ustelik-7-taksit-subat",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Eğitim"
     },
     {
@@ -3092,7 +3132,7 @@
         "baslik": "Yapı Kredi World’e 1-14 Şubat 2026 tarihleri arasında Hepsiburada`dan tek seferde yapacağınız alışverişinize 300 TL Hepsiburada Puan!",
         "resim": "https://www.worldcard.com.tr/getmedia/fd952779-fae6-429a-a9a2-019ec5e33e5a/hepsiburada.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/hepsiburadada-300-tl-hepsiburada-puan",
-        "tarih_bilgisi": "SON 12 GÜN",
+        "tarih_bilgisi": "SON 11 GÜN",
         "kategori": "E-Ticaret"
     },
     {
@@ -3100,7 +3140,7 @@
         "baslik": "Opet Worldcard'ınız ile araç kiralama sektöründen 1-28 Şubat 2026 tarihleri arasında yapacağınız 3000 TL ve üzeri harcamalarda 200 TL Opet Puan kazanırsınız.",
         "resim": "https://www.worldcard.com.tr/getmedia/dcf01403-e299-41ed-9ecb-a52a601ab233/opet-arac-kiralama.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/opet-worldcard-ile-arac-kiralama-sektorundeki-3000-tl-ve-uzeri-harcamaniza-200-tl-opet-puan-subat",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Akaryakıt"
     },
     {
@@ -3108,7 +3148,7 @@
         "baslik": "Opet Worldcard'ınız ile araç yıkama sektöründe 1-28 Şubat 2026 tarihleri arasında yapacağınız 200 TL ve üzeri harcamalarda 15 TL, toplamda 45 TL Opet Puan kazanırsınız.",
         "resim": "https://www.worldcard.com.tr/getmedia/e6f87acd-868c-40b2-89fa-015faab0b442/opet-arac-yikama.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/opet-worldcard-ile-arac-yikama-sektorundeki-her-200-tl-ve-uzeri-harcamaniza-15-tl-subat-2026",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Akaryakıt"
     },
     {
@@ -3116,15 +3156,23 @@
         "baslik": "World Cinezone’da vizyondaki filmlerin keyfini çıkarırken, gişelerde yapacağınız sinema biletlerinde %10 indirim.",
         "resim": "https://www.worldcard.com.tr/getmedia/983c3d88-43a7-4545-9596-aee08dcf0f0a/cinezoneworld1125x633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/world-cinezone-sinema-biletlerinde-10-indirim-subat",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Diğer"
+    },
+    {
+        "banka": "World",
+        "baslik": "28 Şubat tarihine kadar Monster Notebook’da 90.000 TL ve üzeri alışverişlerinizde 12 taksit fırsatını kaçırmayın!",
+        "resim": "https://www.worldcard.com.tr/getmedia/671227db-f53c-4ab7-89fd-dd5d73d080c8/MAR-8565_Yapi-Kredi-Kampanya-Gorseli_2.png?width=1124&height=633&ext=.png",
+        "link": "https://www.worldcard.com.tr/kampanyalar/monster-notebookda-pesin-fiyatina-12-taksit-subat",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Elektronik"
     },
     {
         "banka": "World",
         "baslik": "Hemington mağazalarından ve www.hemington.com.tr'den tek seferde yapılacak peşin veya taksitli 15.000 TL ve üzeri alışverişlere 2.000 TL değerinde Worldpuan fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/40b7d71f-7d5f-4343-98d0-3ea22c872d7d/Hemington-x-World-1125x633px.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/hemingtonda-2000-tl-worldpuan-ocak",
-        "tarih_bilgisi": "SON 13 GÜN",
+        "tarih_bilgisi": "SON 12 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3132,7 +3180,7 @@
         "baslik": "20 Ocak – 19 Şubat 2026 tarihleri arasında Apple ve Microsoft Platformları ödemelerinizde harcadığınız kadar, toplamda 300 TL’ye varan indirim kazanma fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/83d2b69e-edd0-4b25-ac5d-3535866be1c4/App-M-1125x633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/mastercard-logolu-kartiniz-ile-apple-ve-microsoft-platformlarindan-yapacaginiz-harcamalara-toplamda",
-        "tarih_bilgisi": "SON 17 GÜN",
+        "tarih_bilgisi": "SON 16 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3140,7 +3188,7 @@
         "baslik": "Toplam varlığınız 1 Milyon TL üzerinde ise, 20 Ocak -19 Şubat 2026 tarihleri arasında yurt dışındaki fiziki mağazalardan yapacağınız toplamda 60.000 TL ve üzeri harcamanıza 2.500 TL Worldpuan kazanma fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/167502de-c8ae-47bc-9e04-6df2df62a750/AlisverisWorld_1.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/mastercard-logolu-kartiniz-ile-yurt-disinda-yapacaginiz-alisverislerde-toplamda-2500-tl-worldpuan",
-        "tarih_bilgisi": "SON 17 GÜN",
+        "tarih_bilgisi": "SON 16 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3148,7 +3196,7 @@
         "baslik": "Arçelik’te peşin fiyatına 9 aya varan taksit!",
         "resim": "https://www.worldcard.com.tr/getmedia/9c514383-8985-4cb8-b276-fc029b1feed7/Arcelik-insert-ocak-kapak-1125x633.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/arcelikte-pesin-fiyatina-9-aya-varan-taksit",
-        "tarih_bilgisi": "SON 57 GÜN",
+        "tarih_bilgisi": "SON 56 GÜN",
         "kategori": "Elektronik"
     },
     {
@@ -3156,7 +3204,7 @@
         "baslik": "Toplam varlığınız 1 Milyon TL üzerinde ise, 20 Ocak -19 Şubat 2026 tarihleri arasında Mastercard logolu kartınız ile yurt dışındaki Duty Free'lerde tek seferde yapacağınız her 5.000 TL ve üzeri harcamada 750 TL, toplamda 1.500 TL Worldpuan kazanma fırsatı!",
         "resim": "https://www.worldcard.com.tr/getmedia/0402bef4-393e-4bdd-a09d-3ae79baba1d8/duty-free-kasim-World.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/mastercard-logolu-kartiniz-ile-yurt-disindaki-duty-freelerde-toplamda-1500-tlye-varan-worldpuan",
-        "tarih_bilgisi": "SON 17 GÜN",
+        "tarih_bilgisi": "SON 16 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3164,7 +3212,7 @@
         "baslik": "Divarese mağazalarından ve www.divarese.com.tr’den tek seferde yapılacak peşin veya taksitli 10.000 TL ve üzeri alışverişlerde 1.000 TL, World Pay ile yapılacak ödemelere ek 250 TL, toplamda 1.250 TL Worldpuan!",
         "resim": "https://www.worldcard.com.tr/getmedia/52551f12-f4b0-41f6-97b1-a5ee124d73fc/Divarese-C_1.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/divarese’de-1-000-tl-worldpuan,-world-pay-ile-yapilacak-odemelere-ek-250-tl-worldpuan!",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Moda"
     },
     {
@@ -3172,7 +3220,7 @@
         "baslik": "1-28 Şubat 2026 tarihleri arasında Ipekyol’dan yapacağınız 4.500 TL ve üzeri alışverişinize 750 TL Ipekyol Puan! Chippin uygulaması üzerinden Ipekyol fiziki mağazalarından yapacağınız alışverişlerinize ek 50 TL Ipekyol Puan!",
         "resim": "https://www.worldcard.com.tr/getmedia/09bbb0c1-ecdb-46ea-ac36-981e7477e5f1/IpekyolYapiKredi_1125x633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/ipekyolda-750-tl-ipekyol-puan",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Moda"
     },
     {
@@ -3180,7 +3228,7 @@
         "baslik": "Yapı Kredi World’e özel AVIS’te sabit fiyatla araç kiralama ve peşin fiyatına 6 taksit fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/9be067bb-682f-468d-92cf-214287080398/Volvo-EX40-Recharge.png?width=1207&height=697&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/yapi-kredi-worlde-ozel-aviste-sabit-fiyatla-arac-kiralama-ve-pesin-fiyatina-6-taksit-firsati-subat",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Seyahat"
     },
     {
@@ -3188,7 +3236,7 @@
         "baslik": "1-28 Şubat 2026 tarihleri arasında Twist’ten yapacağınız 4.500 TL ve üzeri alışverişinize 750 TL Twist Puan! Chippin uygulaması üzerinden Twist fiziki mağazalarından yapacağınız alışverişinize ek 50 TL Twist Puan!",
         "resim": "https://www.worldcard.com.tr/getmedia/bb7b08dd-cae9-49e5-aca2-05a31e9fb6d1/TwistYapiKredi_1125x633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/twistte-750-tl-twist-puan",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Moda"
     },
     {
@@ -3196,7 +3244,7 @@
         "baslik": "1-28 Şubat 2026 tarihleri arasında Machka’dan yapacağınız 6.000 TL ve üzeri alışverişinize 900 TL Machka Puan! Chippin uygulaması üzerinden Machka fiziki mağazalarından yapacağınız alışverişinize ek 50 TL Machka Puan!",
         "resim": "https://www.worldcard.com.tr/getmedia/0b8e72d3-724a-473e-a2ad-579b3d7b28ea/MachkaYapiKredi_1125x633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/machkada-900-tl-machka-puan",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3204,15 +3252,15 @@
         "baslik": "20 Ocak -19 Şubat 2026 tarihleri arasında Yapı Kredi Mobil üzerinden Yurt Dışı Çıkış Harç Pulu ödemesi yapan müşterilerin, takip eden 15 gün boyunca yurt dışı fiziki poslardan toplamda yapacağı 30.000 TL ve üzeri harcamalarında 1.250 TL indirim!",
         "resim": "https://www.worldcard.com.tr/getmedia/daf89c77-2936-40be-860d-2af9d7008545/harc-pulu-world-subat-2026.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/mastercard-logolu-kartiniz-ile-yurt-disindaki-fiziki-poslardan-toplamda-yapacaginiz-30000-tl-ve-uzer",
-        "tarih_bilgisi": "SON 17 GÜN",
+        "tarih_bilgisi": "SON 16 GÜN",
         "kategori": "Eğitim"
     },
     {
         "banka": "World",
         "baslik": "World'e özel Mudo, Mudo Home, Mudo Concept ve www.mudo.com.tr‘de tek seferde yapılacak 3.000 TL üzeri alışverişe 400 TL, 75.000 TL üzeri alışverişe 10.000 TL değerinde Worldpuan!",
-        "resim": "https://www.worldcard.com.tr/getmedia/4fc0278a-21f6-40cb-b4cb-630bcd1f7390/IMG_9286.jpeg?width=1125&height=633&ext=.jpeg",
+        "resim": "https://www.worldcard.com.tr/getmedia/a40f9f8c-8f66-47bd-9059-a4fb6060ef12/mudo-subatpx.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/mudoda-10000-tlye-varan-worldpuan-kazanma-firsati-ustelik-pesin-fiyatina-9-aya-varan-taksit-subat",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3220,7 +3268,7 @@
         "baslik": "1-28 Şubat 2026 tarihleri arasında 6.000 TL ve üzeri Abdullah Kiğılı alışverişinizde 600 TL Worldpuan ve Chippin’le yapılacak ödemelerde ise 600 TL ChipPuan fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/d479097a-9a08-43a7-a1f1-04d926bebc5a/subat_a-kigili_banka_1125x633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/abdullah-kigilida-600-tl-worldpuan-ve-600-tl-chippuan-subat",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3228,7 +3276,7 @@
         "baslik": "1-28 Şubat 2026 tarihleri arasında 3.000 TL ve üzeri Kiğılı alışverişinizde 300 TL Worldpuan ve Chippin’le yapılacak ödemelerde ise 300 TL ChipPuan fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/156b91fe-3bf6-425b-8b70-56b83285d760/subat_kigili_banka_1125x633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/kigilida-300-tl-worldpuan-ve-300-tl-chippuan-ustelik-6-taksit-subat",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3236,7 +3284,7 @@
         "baslik": "World’e özel 1-28 Şubat 2026 tarihleri arasında Mavi’den yapacağınız 2.500 TL ve üzeri alışverişinize 250 TL değerinde Worldpuan! Üstelik World Pay ile yapacağınız 2.500 TL ve üzeri alışverişinize ek 100 TL değerinde Worldpuan!",
         "resim": "https://www.worldcard.com.tr/getmedia/90bceab0-27ef-4dd2-91da-0c93d9392c45/mavi-subat.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/mavide-250-tl-worldpuan",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Moda"
     },
     {
@@ -3244,7 +3292,7 @@
         "baslik": "NetWork mağazalarından ve www.network.com.tr’den tek seferde yapılacak peşin veya taksitli 12.500 TL ve üzeri alışverişe 1.250 TL, 25.000 TL ve üzeri alışverişe 2.500 TL değerinde Worldpuan,Worldpay ile yapılacak ödemelere ek 12.500 TL ve üzeri alışverişe 250 TL, 25.000 TL ve üzeri alışverişe 500 TL değerinde Worldpuan kazanma fırsatı!",
         "resim": "https://www.worldcard.com.tr/getmedia/a00c972b-43f3-46b9-87c5-e3875fe96ab8/NetWork_A_1.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/networkte-2500-tlye-varan-worldpuan-world-pay-ile-yapilacak-odemelere-ek-500-tlye-varan-subat",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Moda"
     },
     {
@@ -3252,7 +3300,7 @@
         "baslik": "World Mobil’e özel Flying Tiger’dan  yapacağınız 750 TL ve üzeri alışverişe 150 TL Flying Tiger Puan fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/a7482ca8-cc28-4327-af8a-096bf0ace13d/flying-tiger-subat-px.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/world-mobile-ozel-flying-tigerda-750-tl-ve-uzeri-alisverise-150-tl-flying-tiger-puan-hediye-subat-20",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3260,7 +3308,7 @@
         "baslik": "World Mobil’e özel Koctas.com.tr ve Koçtaş mobil uygulamasından yapacağınız  3500 TL ve üzeri alışverişte 350 TL, World Pay ile ek 200 TL toplamda 550 TL’ye varan Worldpuan fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/e609e795-b8f6-4a6f-b756-5e1489132c93/koctas-ykb-worldpuan-1125x633-1.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/world-mobile-ozel-koctascomtr-ve-koctas-mobil-uygulamasindan-yapacaginiz-3500-tl-ve-uzeri-subat",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Mobilya"
     },
     {
@@ -3268,7 +3316,7 @@
         "baslik": "World Mobil’e özel Koçtaş Mağazalarında Chippin uygulaması üzerinden  yapacağınız 3500 TL ve üzeri alışverişte 350 TL Worldpuan’a ek 200 TL Worldpuan ile toplamda 550 TL ‘ye varan Worldpuan kazanma fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/0c6b5962-03c7-47e5-b53e-1e047c1b8822/koctas_banka_1125x633.png?width=1126&height=634&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/world-mobile-ozel-koctas-magazalarinda-chippin-uygulamasi-uzerinden-yapacaginiz-3500-tl-ve-subat",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Mobilya"
     },
     {
@@ -3276,7 +3324,7 @@
         "baslik": "1-28 Şubat 2026 tarihleri arasında seçili yurt içi, Kuzey Kıbrıs otel, yurt dışı tur ve kültür turu rezervasyonlarınızda peşin, 3 taksitli veya 6 taksitli alışverişlerde 7.500 TL’ ye varan Worldpuan!",
         "resim": "https://www.worldcard.com.tr/getmedia/de176c81-ea9d-4506-990f-ba1ccf3c7705/270126_SETUR_YKB_Kas%e2%94%80%e2%96%92mkampanyas%e2%94%80%e2%96%92_CRM_1125x633px.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/seturdan-yapilacak-secili-otel-ve-tur-rezervasyonlarina-7500-tlye-varan-worldpuan-subat1",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Seyahat"
     },
     {
@@ -3284,7 +3332,7 @@
         "baslik": "World’e özel www.idefix.com’dan ve idefix mobil uygulamasından tek seferde yapılacak 3.000 TL ve üzeri alışverişe 250 TL Worldpuan fırsatını kaçırmayın! Üstelik 6 taksit!",
         "resim": "https://www.worldcard.com.tr/getmedia/e2b8779b-c2d0-4384-8901-dc2d39b58091/idefix.jpg?width=1125&height=663&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/wwwidefixcomda-ve-idefix-mobil-uygulamasinda-250-tl-worldpuan-ustelik-6-taksit-subat",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3292,7 +3340,7 @@
         "baslik": "World’e özel setur.com.tr ve Setur Mobil uygulaması üzerinden veya 444 28 22 nolu Çağrı Merkezi, Setur Şube ve Yetkili Satış Acentelerinden yapılacak seçili yurt içi otel rezervasyonlarına %8’e varan ek indirim!",
         "resim": "https://www.worldcard.com.tr/getmedia/6cbb31e1-8030-47af-99f0-a374ffde9554/290725_SETUR_Mayis_Iletisimi_-5ek_Indirim_CRM_1125x633px_3.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/worlde-ozel-seturdan-yapilacak-secili-otel-rezervasyonlarina-8e-varan-ek-indirim-subat",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Seyahat"
     },
     {
@@ -3300,7 +3348,7 @@
         "baslik": "Opet Worldcard ile her ay Opet istasyonlarından tek seferde yapacağınız her 800 TL ve üzeri akaryakıt veya otogaz alımlarınızda anında 40 TL, toplamda 120 TL Opet istasyonlarında harcanabilir Opet Puan kazanabilirsiniz.",
         "resim": "https://www.worldcard.com.tr/getmedia/b7199252-82a5-4b59-8847-d9c172f39c4e/opet-puan111.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/opet-worldcard-ile-800-tl-ve-uzeri-akaryakit-veya-otogaz-aliminda-40-tl-toplamda-120-tlye-subat",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Akaryakıt"
     },
     {
@@ -3308,7 +3356,7 @@
         "baslik": "Opet Worldcard'ınız ile Türk Hava Yolları, AJet, Pegasus ve SunExpress’te 1-28 Şubat 2026   tarihleri arasında tek seferde yapacağınız 4000 TL ve üzeri harcamanızda 400 TL Opet Puan kazanırsınız.",
         "resim": "https://www.worldcard.com.tr/getmedia/b1c52bd0-a062-4017-a138-f93920e11ba1/opet-ucak-bileti.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/opet-worldcard-ile-turk-hava-yollari-ajet-pegasus-ve-sunexpresste-subat",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Akaryakıt"
     },
     {
@@ -3316,7 +3364,7 @@
         "baslik": "Opet Worldcard'ınız ile lastik sektöründen 1-28 Şubat 2026 tarihleri arasında yapacağınız 4500 TL ve üzeri harcamalarda 250 TL Opet Puan kazanırsınız.",
         "resim": "https://www.worldcard.com.tr/getmedia/b30f9852-ba49-422f-a6cf-c7b1831c59e1/opet-arac-lastik.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/opet-worldcard-ile-lastik-sektorundeki-4500-tl-ve-uzeri-harcamaniza-250-tl-opet-puan-subat",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Akaryakıt"
     },
     {
@@ -3324,7 +3372,7 @@
         "baslik": "Opet Worldcard'ınız ile araç bakım sektöründe 1-28 Şubat 2026 tarihleri arasında yapacağınız 3000 TL ve üzeri harcamalarda 150 TL Opet Puan kazanırsınız.",
         "resim": "https://www.worldcard.com.tr/getmedia/097d53fc-c6a4-4b80-aad5-04e84681bd6d/opet-arac-bakim.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/opet-worldcard-ile-arac-bakim-sektorundeki-3000-tl-ve-uzeri-harcamaniza-150-tl-opet-puan-subat",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Akaryakıt"
     },
     {
@@ -3332,7 +3380,7 @@
         "baslik": "World Platinum ile USLA’nın dünya standartlarında eğitmenlerle birbirinden lezzetli yemeklerin yapım aşamalarında yer alırken, gastronomi dünyasını deneyimleyebileceğiniz workshoplarda %10 indirim.",
         "resim": "https://www.worldcard.com.tr/getmedia/394eb967-7799-4b25-aa90-19157d502c76/USLA-Workshop-Sinif.png?width=1882&height=1256&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/world-platinum-ile-uslada-gerceklesecek-workshoplarda-10-indirim",
-        "tarih_bilgisi": "SON 332 GÜN",
+        "tarih_bilgisi": "SON 331 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3340,7 +3388,7 @@
         "baslik": "1-28 Şubat 2026 tarihleri arasında Tatilbudur.com, TatilBudur mobil uygulaması ,TatilBudur çağrı merkezi ve acenteler üzerinden  tek seferde yapılacak peşin, 3 taksitli veya 6 taksitli alışverişlerde yurt içi ve Kuzey Kıbrıs otel, yurt dışı tur rezervasyonlarında geçerli; 45.000 TL-69.999 TL arası harcamaya 2.500 TL, 70.000 TL - 119.999 TL arası harcamaya 5.000 TL, 120.000 TL ve üzeri harcamaya 7.500 TL Worldpuan!",
         "resim": "https://www.worldcard.com.tr/getmedia/6a815259-f324-46ee-91d8-a1c75ce5e918/7500-Worldpuan-Kampanyasi-Banka-Reklam-28-Subat_1125x633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/tatilbudurdan-yapilacak-rezervasyonlarda-7500-tlye-varan-worldpuan-subat-2026",
-        "tarih_bilgisi": "SON 26 GÜN",
+        "tarih_bilgisi": "SON 25 GÜN",
         "kategori": "Seyahat"
     },
     {
@@ -3348,7 +3396,7 @@
         "baslik": "Sneaks Up harcamalarınızda peşin fiyatına 6 taksit fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/61d9ea09-1805-4902-879d-097ef0de8326/1125-px-X-633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/sneaks-upta-pesin-fiyatina-6-taksit",
-        "tarih_bilgisi": "SON 332 GÜN",
+        "tarih_bilgisi": "SON 331 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3356,7 +3404,7 @@
         "baslik": "MANGO’dan yapacağınız alışverişlerinizde peşin fiyatına 6 taksit fırsatı!",
         "resim": "https://www.worldcard.com.tr/getmedia/0b047e61-9468-4aa1-ad71-fb70cd316c9b/mango-1125x633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/mangoda-6-taksit",
-        "tarih_bilgisi": "SON 87 GÜN",
+        "tarih_bilgisi": "SON 86 GÜN",
         "kategori": "Moda"
     },
     {
@@ -3364,7 +3412,7 @@
         "baslik": "Bilgi ve şans yarışması olan Vadaa Şans hafta içi her akşam toplam 10.000 TL Worldpuan ödül ile, Çarşambaları ise toplam 15.000 TL Worldpuan ödül ile saat 20.00’de World Mobil’de!",
         "resim": "https://www.worldcard.com.tr/getmedia/6ee2d3d3-b8b0-46e4-b83d-e9beef3aec1e/vada-sans-(1).png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/toplamda-15000-tlye-varan-worldpuan-odullu-vadaa-sans-hafta-ici-her-aksam-2000de",
-        "tarih_bilgisi": "SON 332 GÜN",
+        "tarih_bilgisi": "SON 331 GÜN",
         "kategori": "Moda"
     },
     {
@@ -3372,7 +3420,7 @@
         "baslik": "28 Şubat 2026 tarihine kadar Mavi ve www.mavi.com alışverişlerinizde 6 taksit fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/cbfdfa4f-aaf7-4aba-b72a-90ed2dbe4f65/mavi_2.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/mavide-6-taksit",
-        "tarih_bilgisi": "SON 24 GÜN",
+        "tarih_bilgisi": "SON 23 GÜN",
         "kategori": "Moda"
     },
     {
@@ -3380,8 +3428,16 @@
         "baslik": "Reztoran’da birbirinden farklı restoranlar tek ödeme ve ortak sepet özelliği ile kapınızda. World Platinum ile Reztoran uygulamasından yapacağınız harcamalarda %10 indirim.",
         "resim": "https://www.worldcard.com.tr/getmedia/7ae2e98d-933d-4f2c-929f-7fca23f0618a/reztoran-image.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/world-platinum-ile-restoranda-10-indirim",
-        "tarih_bilgisi": "SON 332 GÜN",
+        "tarih_bilgisi": "SON 331 GÜN",
         "kategori": "Diğer"
+    },
+    {
+        "banka": "World",
+        "baslik": "Fenerbahçe Worldcard ile Fenerium mağazalarında %10 indirime ek %10, tek seferde 500 TL, toplamda 1000 TL’ye varan indirim fırsatını kaçırmayın.",
+        "resim": "https://www.worldcard.com.tr/getmedia/a9c8dd9c-668d-4d2c-9394-e1bba4f8d522/30007900007.webp?ext=.webp",
+        "link": "https://www.worldcard.com.tr/kampanyalar/fenerbahce-worldcard-ile-fenerium-magazalarinda-10-indirime-ek-10-tek-seferde-500-tl-toplamda-1000-t",
+        "tarih_bilgisi": "SON 25 GÜN",
+        "kategori": "Moda"
     },
     {
         "banka": "Bonus",
@@ -3417,7 +3473,7 @@
     },
     {
         "banka": "Bonus",
-        "baslik": "Market alışverişlerinize 500 TL,BonusFlaş ile ödemelere 600 TL bonus!Son 10 Gün",
+        "baslik": "Market alışverişlerinize 500 TL,BonusFlaş ile ödemelere 600 TL bonus!Son 9 Gün",
         "resim": "https://www.bonus.com.tr/assets/images/imported/market_070725.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/bonus-market-alisveris-kampanya",
         "tarih_bilgisi": "",
@@ -3433,7 +3489,7 @@
     },
     {
         "banka": "Bonus",
-        "baslik": "Market alışverişlerinize 500 TL,BonusFlaş ile ödemelere 600 TL bonus!Son 10 Gün",
+        "baslik": "Market alışverişlerinize 1.000 TL,BonusFlaş ile ödemenize 1.100 TL bonus!",
         "resim": "https://www.bonus.com.tr/assets/images/imported/mar2_220525.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/bonus-alisveris-market-kampanyasi",
         "tarih_bilgisi": "",
@@ -3745,7 +3801,7 @@
     },
     {
         "banka": "Bonus",
-        "baslik": "Motorlu Taşıtlar Vergisi’neücretsiz 3 Taksit!Son 4 Gün",
+        "baslik": "Motorlu Taşıtlar Vergisi’neücretsiz 3 Taksit!Son 3 Gün",
         "resim": "https://www.bonus.com.tr/assets/images/imported/bonus_mtv_301225.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/motorlu-tasitlar-vergisi-kampanyasi",
         "tarih_bilgisi": "",
@@ -4177,7 +4233,7 @@
     },
     {
         "banka": "Bonus",
-        "baslik": "Restoran harcamalarınıza 500 TL,Mobil Temassız veya QR ile ödemeye 600 TL bonus!",
+        "baslik": "Restoran harcamalarınıza 500 TL,Mobil Temassız veya QR ile ödemeye 600 TL bonus!Son 10 Gün",
         "resim": "https://www.bonus.com.tr/assets/images/imported/res_200525.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/bonus-restoran-bf-kampanya",
         "tarih_bilgisi": "",
@@ -4441,7 +4497,7 @@
     },
     {
         "banka": "Bonus",
-        "baslik": "Trendyol Go by Uber Eats'ten200 TL bonus!Son 8 Gün",
+        "baslik": "Trendyol Go by Uber Eats'ten200 TL bonus!Son 7 Gün",
         "resim": "https://www.bonus.com.tr/assets/images/imported/trendyolgoyemek_141125.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/trendyol-go-yemek-kampanyasi",
         "tarih_bilgisi": "",
@@ -4449,7 +4505,7 @@
     },
     {
         "banka": "Bonus",
-        "baslik": "TOMMYLIFE'ta 850 TL'yevaran bonus fırsatı!Son 6 Gün",
+        "baslik": "TOMMYLIFE'ta 850 TL'yevaran bonus fırsatı!Son 5 Gün",
         "resim": "https://www.bonus.com.tr/assets/images/imported/tommy_300925.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/tommylife-giyim-bf-kampanyalari",
         "tarih_bilgisi": "",
@@ -4457,7 +4513,7 @@
     },
     {
         "banka": "Bonus",
-        "baslik": "Bosch Ev Aletlerinde1.000 TL bonus!Son 5 Gün",
+        "baslik": "Bosch Ev Aletlerinde1.000 TL bonus!Son 4 Gün",
         "resim": "https://www.bonus.com.tr/assets/images/imported/bosch_061125.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/bosch-ev-aletleri-kampanyasi",
         "tarih_bilgisi": "",
@@ -4465,7 +4521,7 @@
     },
     {
         "banka": "Bonus",
-        "baslik": "Profilo Ev Aletlerinde1.000 TL bonus!Son 5 Gün",
+        "baslik": "Profilo Ev Aletlerinde1.000 TL bonus!Son 4 Gün",
         "resim": "https://www.bonus.com.tr/assets/images/imported/profilo_060126.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/profilo-ev-aletleri-kampanyasi",
         "tarih_bilgisi": "",
@@ -4473,7 +4529,7 @@
     },
     {
         "banka": "Bonus",
-        "baslik": "Siemens Ev Aletlerinde1.000 TL bonus!Son 5 Gün",
+        "baslik": "Siemens Ev Aletlerinde1.000 TL bonus!Son 4 Gün",
         "resim": "https://www.bonus.com.tr/assets/images/imported/siemens_131125.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/siemens-ev-aletleri-kampanyasi",
         "tarih_bilgisi": "",
@@ -4529,7 +4585,7 @@
     },
     {
         "banka": "Bonus",
-        "baslik": "Enplus'ta 15.000 TL veüzeri alışverişe 750 TL bonus!Son 2 Gün",
+        "baslik": "Enplus'ta 15.000 TL veüzeri alışverişe 750 TL bonus!Son 1 Gün",
         "resim": "https://www.bonus.com.tr/assets/images/imported/enplus_311225.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/enplus-bonus-bf-kampanyasi",
         "tarih_bilgisi": "",
@@ -4548,6 +4604,14 @@
         "baslik": "CarrefourSA'da peşin fiyatına5 aya varan taksit!",
         "resim": "https://www.bonus.com.tr/assets/images/imported/carrefour_061125.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/carrefoursa-market-taksit-kampanya",
+        "tarih_bilgisi": "",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bonus",
+        "baslik": "www.kosovalisaat.com'da6 taksit fırsatı!",
+        "resim": "https://www.bonus.com.tr/assets/images/imported/kosovali_saat_291225.jpg",
+        "link": "https://www.bonus.com.tr/kampanyalar/kosovali-saat-taksit-kampanyasi",
         "tarih_bilgisi": "",
         "kategori": "Diğer"
     },
@@ -4630,6 +4694,14 @@
         "link": "https://www.bonus.com.tr/kampanyalar/evidea-ev-tekstili-kampanyalari",
         "tarih_bilgisi": "",
         "kategori": "Diğer"
+    },
+    {
+        "banka": "Bonus",
+        "baslik": "Pazarama'da peşin fiyatına6 aya varan taksit!",
+        "resim": "https://www.bonus.com.tr/assets/images/imported/paz_090424.jpg",
+        "link": "https://www.bonus.com.tr/kampanyalar/pazarama-eticaret-taksit-kampanyalari",
+        "tarih_bilgisi": "",
+        "kategori": "E-Ticaret"
     },
     {
         "banka": "Bonus",
