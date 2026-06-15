@@ -1873,14 +1873,6 @@
     },
     {
         "banka": "Paraf",
-        "baslik": "Hepsiburada'da peşin fiyatına 6 aya varan taksit fırsatı!",
-        "resim": "https://www.paraf.com.tr/content/dam/parafcard/images/campaigns/e-ticaret/2026/mayıs/hepsiburada-6taksit-600x960.jpg",
-        "link": "https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/e-ticaret/hepsiburadada-pesin-fiyatina-6-aya-varan-taksit-firsati1.html",
-        "tarih_bilgisi": "",
-        "kategori": "E-Ticaret"
-    },
-    {
-        "banka": "Paraf",
         "baslik": "Yenilio'da peşin fiyatına 12 aya varan taksit ve 1500 TL ParafPara!",
         "resim": "https://www.paraf.com.tr/content/dam/parafcard/images/campaigns/beyaz-esya-ve-elektronik/2026/mart/ynl38600x960.jpg",
         "link": "https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/beyaz-esya-ve-elektronik/yenilioda-pesin-fiyatina-12-aya-varan-taksit-ve-1500tl-parafpara-haziran.html",
@@ -1950,6 +1942,30 @@
         "link": "https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/seyahat/silver-logolu-mastercardiniza-sabiha-gokcen-havalimani-ic-hatlar-terminalinde-hizli-gecis-ucretsiz.html",
         "tarih_bilgisi": "",
         "kategori": "Diğer"
+    },
+    {
+        "banka": "Paraf",
+        "baslik": "Vatan'da Babalar Gününe Özel 10.000 TL’ye varan ParafPara",
+        "resim": "https://www.paraf.com.tr/content/dam/parafcard/images/campaigns/beyaz-esya-ve-elektronik/2026/haziran/vatan-babalar-gunu600x960.jpg",
+        "link": "https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/beyaz-esya-ve-elektronik/vatanda-babalar-gunune-ozel-10000tlye-varan-parafpara.html",
+        "tarih_bilgisi": "",
+        "kategori": "Elektronik"
+    },
+    {
+        "banka": "Paraf",
+        "baslik": "Hepsiburada'da peşin fiyatına 9 aya varan taksit fırsatı!",
+        "resim": "https://www.paraf.com.tr/content/dam/parafcard/images/campaigns/e-ticaret/2026/haziran/9hepsiburada600x960.jpg",
+        "link": "https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/e-ticaret/hepsiburadada-pesin-fiyatina-9-aya-varan-taksit-firsati1.html",
+        "tarih_bilgisi": "",
+        "kategori": "E-Ticaret"
+    },
+    {
+        "banka": "Paraf",
+        "baslik": "LC Waikiki'de Paraf TROY karta 3.000 TL'ye 300 TL indirim!",
+        "resim": "https://www.paraf.com.tr/content/dam/parafcard/images/campaigns/giyim-kozmetik-aksesuar/2026/haziran/lcw600x960.jpg",
+        "link": "https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/lcwaikikide-paraf-troy-karta-3000tlye-300tl-indirim.html",
+        "tarih_bilgisi": "",
+        "kategori": "Moda"
     },
     {
         "banka": "Paraf",
@@ -2748,7 +2764,7 @@
         "baslik": "12-30 Haziran 2026 tarihleri arasında World Nakit Dijital, World Nakit, Play Nakit ön ödemeli kartlarınız ile yapacağınız her 500 TL ve üzeri harcamanıza 75 TL, World Pay ile ödemelerde ek 25 TL, toplamda 400 TL’ye varan indirim!",
         "resim": "https://www.worldcard.com.tr/getmedia/ea256837-577b-492c-b213-5eb099891474/onodeme-World.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/on-odemeli-kartlar-ile-yapacaginiz-alisverislerinize-toplamda-400-tlye-varan-indirim-firsati-haziran",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2756,7 +2772,7 @@
         "baslik": "Bellona’da peşin fiyatına 9 aya varan taksit fırsatı!",
         "resim": "https://www.worldcard.com.tr/getmedia/6b21304b-6c68-4834-8095-e0c330f3ec49/bellona-haziran.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/bellonada-9-aya-varan-taksit-firsati-ocak",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Mobilya"
     },
     {
@@ -2764,7 +2780,7 @@
         "baslik": "Mondihome’da peşin fiyatına 9 aya varan taksit fırsatı!",
         "resim": "https://www.worldcard.com.tr/getmedia/7d361ce3-fbb5-430f-a5a3-2daac75e381f/mondihome-fotograf.jpg?width=1119&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/mondihomeda-pesin-fiyatina-9-aya-varan-taksit-firsati-ocak",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2772,7 +2788,7 @@
         "baslik": "Beko’da peşin fiyatına 9 aya varan taksit!",
         "resim": "https://www.worldcard.com.tr/getmedia/b6621f6c-79ca-419e-83b6-f724573f01b6/BEKO.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/bekoda-pesin-fiyatina-9-aya-varan-taksit-ocak",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Elektronik"
     },
     {
@@ -2780,7 +2796,7 @@
         "baslik": "World’e özel Michelin’de 6 aya varan taksit fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/a4104679-a9cd-4b0b-bc73-95244d3c7c20/1125x633-LIFESTYLE.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/worlde-ozel-michelinde-6-aya-varan-taksit-firsati",
-        "tarih_bilgisi": "SON 1 GÜN",
+        "tarih_bilgisi": "SON 0 GÜN",
         "kategori": "Otomotiv"
     },
     {
@@ -2788,7 +2804,7 @@
         "baslik": "Masterpass hesabına kayıtlı Silver logolu Mastercard kredi kartı ile Galataport’ta yapacağınız otopark harcamanız 1 TL!",
         "resim": "https://www.worldcard.com.tr/getmedia/bb0ee918-a49b-475c-920d-c7412b817f4f/v3_WM_Galataport_Otopark_1125x633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/silver-logolu-mastercardiniza-ozel-galataportta-otopark-1-tl",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Otomotiv"
     },
     {
@@ -2796,7 +2812,7 @@
         "baslik": "Silver logolu Mastercard sahiplerine 150 Euro / 150 USD ve üzeri yurt dışı restoran ve kafe ödemelerinde % 15 indirim fırsatı!",
         "resim": "https://www.worldcard.com.tr/getmedia/62e29ed0-a34b-4fa9-8436-c465c56e0d52/1125x633-Restoran.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/silver-logolu-mastercardiniza-ozel-yurt-disi-restoran-ve-kafe-odemelerinde-15-indirim",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Restoran"
     },
     {
@@ -2804,7 +2820,7 @@
         "baslik": "Silver logolu Mastercard sahiplerine 150€/ 150$ ve üzeri yurt dışı Duty Free harcamalarında % 15 indirim!",
         "resim": "https://www.worldcard.com.tr/getmedia/9b2eb48f-702c-44c5-9f0c-5d73bc65cca7/mc-duty-free.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/silver-logolu-mastercardiniza-ozel-yurt-disi-duty-freelerde-15-indirim-firsati",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2812,7 +2828,7 @@
         "baslik": "World Cinezone’da sinemanın keyfini çıkarırken, yapacağınız tüm büfe harcamalarında %10 indirim.",
         "resim": "https://www.worldcard.com.tr/getmedia/1239931c-b290-457f-8b2c-61952e482812/world-cinezone1125x633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/world-cinezone-sinema-bufelerindeki-yeme-icme-harcamalarinda-10-indirim-2026",
-        "tarih_bilgisi": "SON 200 GÜN",
+        "tarih_bilgisi": "SON 199 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2820,7 +2836,7 @@
         "baslik": "İstikbal’de peşin fiyatına 9 aya varan taksit fırsatı!",
         "resim": "https://www.worldcard.com.tr/getmedia/976f7228-627d-43c9-8306-9007c051e79c/istikbal-gorsel.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/istikbalde-pesin-fiyatina-9-aya-varan-taksit-firsati-ocak",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2828,7 +2844,7 @@
         "baslik": "05 Ocak 2026 – 03 Ocak 2027 tarihleri arasında IKEA mağazalarından ve IKEA.com.tr’den IKEA Aile ve Worldcard ile yapacağınız 7.500 TL ve üzeri alışverişte peşin fiyatına 6 taksit fırsatını kaçırmayın.",
         "resim": "https://www.worldcard.com.tr/getmedia/4661b791-2fb2-4537-affd-d5a27563f54a/ikea_2.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/ikeada-pesin-fiyatina-6-taksit-firsati-2026",
-        "tarih_bilgisi": "SON 203 GÜN",
+        "tarih_bilgisi": "SON 202 GÜN",
         "kategori": "Mobilya"
     },
     {
@@ -2836,7 +2852,7 @@
         "baslik": "Arçelik’te peşin fiyatına 9 aya varan taksit!",
         "resim": "https://www.worldcard.com.tr/getmedia/9c514383-8985-4cb8-b276-fc029b1feed7/Arcelik-insert-ocak-kapak-1125x633.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/arcelikte-pesin-fiyatina-9-aya-varan-taksit",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Elektronik"
     },
     {
@@ -2844,7 +2860,7 @@
         "baslik": "31 Aralık 2026 tarihine kadar Civil alışverişlerinizde peşin fiyatına 6 aya varan taksit fırsatını kaçırmayın.",
         "resim": "https://www.worldcard.com.tr/getmedia/413671f6-9b3a-4655-acb0-c2d88ef03e83/gorsel-(1).png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/civilde-pesin-fiyatina-6-aya-varan-taksit",
-        "tarih_bilgisi": "SON 200 GÜN",
+        "tarih_bilgisi": "SON 199 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2852,7 +2868,7 @@
         "baslik": "31 Aralık 2026 tarihine kadar Opmar Optik alışverişlerinizde peşin fiyatına 6 aya varan taksit fırsatını kaçırmayın.",
         "resim": "https://www.worldcard.com.tr/getmedia/49a8c495-bf48-483a-b5f9-af48f2ff1345/1125x633px-Opmar-Optik-Gorsel.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/opmar-optikte-pesin-fiyatina-6-aya-varan-taksit",
-        "tarih_bilgisi": "SON 200 GÜN",
+        "tarih_bilgisi": "SON 199 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2860,7 +2876,7 @@
         "baslik": "World’e özel 2-31 Mart 2026 tarihleri arasında www.divanpastaneleri.com.tr’den yapacağınız alışverişinize 100 TL Worldpuan kazanma fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/f965ebc9-51cf-4d30-a69d-e07086c81289/divan-pastaneleri-1125x633px.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/divanpastanelericomtrde-100-tl-worldpuan-mart",
-        "tarih_bilgisi": "SON 139 GÜN",
+        "tarih_bilgisi": "SON 138 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2868,7 +2884,7 @@
         "baslik": "World’e özel Fiat Yetkili Servislerde peşin fiyatına 6 taksit fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/458acf8a-82b0-4192-a57f-1567642c9d82/FIAT_YKB_1125x633_01.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/worlde-ozel-fiat-yetkili-servislerde-pesin-fiyatina-6-taksit-firsati-subat",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2876,7 +2892,7 @@
         "baslik": "World’e özel Alfa Romeo Yetkili Servislerde peşin fiyatına 6 taksit fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/49439f04-9153-419b-b05a-e1946d7355a5/AR_YKB_1125x633_01.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/worlde-ozel-alfa-romeo-yetkili-servislerde-pesin-fiyatina-6-taksit-firsati",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2884,7 +2900,7 @@
         "baslik": "Penti harcamalarınızda peşin fiyatına 6 taksit fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/3dbe89d4-52db-4561-b307-58aaeed66c78/YKB_3.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/pentide-pesin-fiyatina-6-taksit-2026",
-        "tarih_bilgisi": "SON 200 GÜN",
+        "tarih_bilgisi": "SON 199 GÜN",
         "kategori": "Moda"
     },
     {
@@ -2892,7 +2908,7 @@
         "baslik": "World’e özel Jeep Yetkili Servislerde peşin fiyatına 6 taksit fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/bae59508-865f-4951-9063-b9c3572c151a/JEEP_YKB_1125x633_01.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/worlde-ozel-jeep-yetkili-servislerde-pesin-fiyatina-6-taksit-firsati",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2900,7 +2916,7 @@
         "baslik": "World’e özel Peugeot Yetkili Servislerde peşin fiyatına 6 taksit fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/b2f8e335-a768-4899-8139-e712cd2c73df/peugeot-word_revize_1.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/worlde-ozel-peugeot-yetkili-servislerde-pesin-fiyatina-6-taksit-firsati-2026",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2908,7 +2924,7 @@
         "baslik": "World’e özel Opel Yetkili Servislerde peşin fiyatına 6 taksit fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/2f84e6ad-27ba-4d26-a8aa-7e5e7176d5a0/OPEL-_-Tofas-STLAT-Ilk-Yariyil-Pos-Kampanyalari-Gorseli-(1).jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/worlde-ozel-opel-yetkili-servislerde-pesin-fiyatina-6-taksit-firsati-2026",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2916,7 +2932,7 @@
         "baslik": "World’e özel Citroen Yetkili Servislerde peşin fiyatına 6 taksit fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/ee4eeca4-1906-4fe4-a9b6-e38f85ed8f02/_CR-26-000027-SSH-POS-KAMPANYALARI-GORSEL-CALISMASI-03.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/worlde-ozel-citroen-yetkili-servislerde-pesin-fiyatina-6-taksit-firsati-2026",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2924,7 +2940,7 @@
         "baslik": "Vakko harcamalarınızda peşin fiyatına 6 taksit fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/e5f14fb5-18a8-4d94-a0f1-dfde73e0c9f0/1125x633-yapi-kredi__1.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/vakkoda-pesin-fiyatina-6-taksit",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Moda"
     },
     {
@@ -2932,7 +2948,7 @@
         "baslik": "Vakkorama harcamalarınızda peşin fiyatına 6 taksit fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/b61a857f-614c-46b3-b62c-be033ff1d22c/vakkoroma.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/vakkoramada-pesin-fiyatina-6-taksit",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2940,7 +2956,7 @@
         "baslik": "W Collection harcamalarınızda peşin fiyatına 6 taksit fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/209a3dd6-d779-4517-a56d-1efd9feb14c4/wcol-1125x633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/w-collectionda-pesin-fiyatina-6-taksit",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2948,7 +2964,7 @@
         "baslik": "Fenerbahçe Worldcard ile 1 Mayıs – 30 Haziran 2026 tarihleri arasında lacivert tur, sarı tur ve müze turunda yapacağınız harcamalarda %20, toplamda 100 TL’ye varan indirim fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/d3cf339d-251e-4dcf-8c95-cdf70d1ee011/FB-muze-gorsel.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/fenerbahce-worldcard-ile-lacivert-tur-sari-tur-ve-muze-turunda-20-toplamda-100-tlye-varan-mayis-2026",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2956,7 +2972,7 @@
         "baslik": "Fenerbahçe Worldcard ile 1 Mayıs – 30 Haziran 2026 tarihleri arasında Fenerbahçe SK Serkan Acar Resort & Sports Topuk Yaylası’nda yapacağınız 5800 TL ve üzeri harcamaya 300 TL Worldpuan fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/4bf50396-2501-43c5-8073-3b09f748579e/Topuk-yaylasi-gorsel.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/fenerbahce-worldcard-topuk-yaylasi-kampanyasi-mayis-2026",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -2964,7 +2980,7 @@
         "baslik": "NetWork mağazalarından ve www.network.com.tr’den tek seferde yapılacak peşin veya taksitli 15.000 TL ve üzeri alışverişe 1.000 TL değerinde Worldpuan, Chippin ile yapılacak ödemelere ek 250 TL Worldpuan!",
         "resim": "https://www.worldcard.com.tr/getmedia/9f493072-4ac7-49a6-b8b5-f662fdefc3ee/NetWork_A.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/networkte-1250-tlye-varan-worldpuan",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Moda"
     },
     {
@@ -2972,7 +2988,7 @@
         "baslik": "Beymen Club mağazalarından ve www.beymenclub.com 'dan tek seferde yapılacak peşin veya taksitli 15.000 TL ve üzeri alışverişlerde 1.000 TL Worldpuan!",
         "resim": "https://www.worldcard.com.tr/getmedia/85896a90-2377-4bc5-96e8-918ecff68743/BC_YKB_MAYIS_IMAJ_1.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/beymen-clubta-1000-tl-worldpuan",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Moda"
     },
     {
@@ -2980,7 +2996,7 @@
         "baslik": "Divarese mağazalarında ve www.divarese.com.tr'den tek seferde yapılacak peşin veya taksitli 10.000 TL ve üzeri alışverişlerde 1.000 TL Worldpuan, Chippin ile yapılacak ödemelerde ek 250 TL Worldpuan!",
         "resim": "https://www.worldcard.com.tr/getmedia/156af00d-50c9-4c67-840c-17c5ed012cda/DIVARESE_A-(002).jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/divaresede-1250-tlye-varan-worldpuan",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Moda"
     },
     {
@@ -2988,7 +3004,7 @@
         "baslik": "World’e özel Continental’de 6 aya varan taksit fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/6bedc79b-b8d2-451b-a6fd-befb7a5ab1d8/BANKA-PROMOSYON-GORSELI-2026-01.jpg?width=1128&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/worlde-ozel-continentalde-6-aya-varan-taksit-firsati",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Otomotiv"
     },
     {
@@ -2996,7 +3012,7 @@
         "baslik": "Toplam varlığınız 1 Milyon TL üzerinde ise, 20 Mayıs – 19 Haziran 2026 tarihleri arasında Mastercard logolu kartınız ile online olarak tek seferde yapacağınız 5.000 TL ve üzeri yurt dışı harcamanıza 250 TL puan kazanma fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/8b67a591-d61c-4325-8b19-0185cd09ac8d/1125x633-sanal-pos-World.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/mastercard-logolu-kartiniz-ile-yapacaginiz-yurt-disi-online-alisverislerde-250-tl-puan-mayis-2026",
-        "tarih_bilgisi": "SON 5 GÜN",
+        "tarih_bilgisi": "SON 4 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3004,7 +3020,7 @@
         "baslik": "20 Mayıs – 19 Haziran 2026 tarihleri arasında Mastercard logolu kartınız ile Apple ve Microsoft Platformları ödemelerinizde harcadığınız kadar, toplamda 300 TL’ye varan indirim kazanma fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/b07c8617-92cb-4327-9670-d814f96a1168/apple-microsoft-1125_633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/mastercard-logolu-kartiniz-ile-apple-ve-microsoft-platformlarindan-yapacaginiz-harcama-haziran-2026",
-        "tarih_bilgisi": "SON 5 GÜN",
+        "tarih_bilgisi": "SON 4 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3012,7 +3028,7 @@
         "baslik": "20 Mayıs – 19 Haziran 2026 tarihleri arasında Mastercard logolu kartınız ile seçili çevrimiçi müzik, oyun ve video platformları ödemelerinizde harcadığınız kadar, toplamda 300 TL’ye varan indirim kazanma fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/687fb173-5c64-4b24-9ed9-7929334b718f/1125_633-cevrimici-muzik-oyun.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/mastercard-logolu-kartiniz-ile-cevrimici-muzik-oyun-ve-video-platformlarindan-yapacagin-haziran-2026",
-        "tarih_bilgisi": "SON 5 GÜN",
+        "tarih_bilgisi": "SON 4 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3020,7 +3036,7 @@
         "baslik": "1-30 Haziran 2026 tarihleri arasında Machka’dan yapacağınız 6.000 TL ve üzeri alışverişinize 900 TL Machka Puan! Chippin uygulaması üzerinden Machka fiziki mağazalarından yapacağınız alışverişinize ek 50 TL Machka Puan!",
         "resim": "https://www.worldcard.com.tr/getmedia/38c40d6c-5f78-4e00-afbf-36ae74845800/Machka_Yap%e2%94%80%e2%96%92Kredi_1125x633d.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/machkada-900-tl-machka-puan-chippin-uygulamasi-uzerinden-machka-fiziki-magazalarindan-haziran-2026",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3028,7 +3044,7 @@
         "baslik": "1-30 Haziran 2026 tarihleri arasında Twist’ten yapacağınız 4.500 TL ve üzeri alışverişinize 750 TL Twist Puan! Chippin uygulaması üzerinden Twist fiziki mağazalarından yapacağınız alışverişinize ek 50 TL Twist Puan!",
         "resim": "https://www.worldcard.com.tr/getmedia/1c37ea2e-2aa2-4402-8f89-0285067ddc87/Twist_Yap%e2%94%80%e2%96%92Kredi_1125x633d.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/twistte-750-tl-twist-puan-chippin-uygulamasi-uzerinden-twist-fiziki-magazalarindan-haziran-2026",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Moda"
     },
     {
@@ -3036,7 +3052,7 @@
         "baslik": "21 Mayıs- 21 Haziran 2026 tarihleri arasında 12.500 TL ve üzeri alışverişinize 1.250 TL Worldpuan fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/4466de33-3d13-4db6-99df-c2578d715f88/hatemoglu-1125X633_.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/hatemoglunda-1250-tl-worldpuan",
-        "tarih_bilgisi": "SON 7 GÜN",
+        "tarih_bilgisi": "SON 6 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3044,7 +3060,7 @@
         "baslik": "Mudo, Mudo Home, Mudo Concept ve www.mudo.com.tr‘de tek seferde yapılacak 3.000 TL üzeri alışverişe 400 TL, 75.000 TL üzeri alışverişe 10.000 TL değerinde Worldpuan!",
         "resim": "https://www.worldcard.com.tr/getmedia/b482863d-c7eb-499d-876d-51f4c4aa2321/mudo.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/mudoda-10000-tlye-varan-worldpuan-haziran",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3052,7 +3068,7 @@
         "baslik": "1-30 Haziran 2026 tarihleri arasında 6.000 TL ve üzeri Abdullah Kiğılı alışverişinizde 600 TL Worldpuan ve Chippin’le yapılacak ödemelerde ise 300 TL ChipPuan fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/51c85b38-130e-4006-80a7-9a5db9c5bbb5/a-kigili_banka_1125x633_4.png?width=1126&height=634&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/abdullah-kigilida-600-tl-worldpuan-ve-300-tl-chippuan",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3060,7 +3076,7 @@
         "baslik": "1-30 Haziran 2026 tarihleri arasında 3.000 TL ve üzeri Kiğılı alışverişinizde 300 TL Worldpuan ve Chippin’le yapılacak ödemelerde ise 150 TL ChipPuan fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/511cd990-8148-427d-ac89-95377788400a/kigili_banka_1125x633_5.png?width=1126&height=634&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/kigilida-300-tl-worldpuan-ve-150-tl-chippuan-ustelik-6-taksit",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3068,7 +3084,7 @@
         "baslik": "World Cinezone’da vizyondaki filmlerin keyfini çıkarırken, gişelerde yapacağınız sinema biletlerinde %10 indirim",
         "resim": "https://www.worldcard.com.tr/getmedia/983c3d88-43a7-4545-9596-aee08dcf0f0a/cinezoneworld1125x633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/world-cinezone-sinema-biletlerinde-10-indirim-haziran",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3076,7 +3092,7 @@
         "baslik": "World’e özel Civil mağazalarından tek seferde yapılacak 1.500 TL ve üzeri alışverişe 150 TL, Chippin üzerinden yapılan ödemelere ek 50 TL, toplamda 200 TL’ye varan Worldpuan fırsatı!",
         "resim": "https://www.worldcard.com.tr/getmedia/860163d4-603b-4137-9c83-d6c2eac18d4b/civil_banka_1125x633_Mayis.png?width=1126&height=634&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/civilde-150-tl-worldpuan-kazanma-firsati-ustelik-chippin-uygulamasi-uzerinden-civil-mayis-2026",
-        "tarih_bilgisi": "SON 1 GÜN",
+        "tarih_bilgisi": "SON 0 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3084,7 +3100,7 @@
         "baslik": "e-Hamal.com’da 3.500 TL alışverişe 500 TL Worldpuan ve 500 TL indirim! Chippin uygulaması üzerinden yapacağınız alışverişinize ek 50 TL Worldpuan!",
         "resim": "https://www.worldcard.com.tr/getmedia/5a70d10e-3721-47fb-9cec-6623552c0229/ehamal_banka_1125x633_1.png?width=1126&height=634&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/e-hamalcomda-3500-tl-alisverisinize-500-tl-worldpuan-ve-500-tl-indirim-haziran",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3092,7 +3108,7 @@
         "baslik": "1-30 Haziran 2026 tarihleri arasında seçili yurt içi, Kuzey Kıbrıs otel, yurt dışı tur ve kültür turu rezervasyonlarınızda peşin, 3 taksitli veya 6 taksitli alışverişlerde  7.500 TL’ ye varan Worldpuan!",
         "resim": "https://www.worldcard.com.tr/getmedia/da750690-31dd-4227-9629-15fbfa5f9858/150526_SETUR_YKB_Kasimkampanyasi_CRM_-95.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/seturdan-yapilacak-secili-otel-ve-tur-rezervasyonlarina-7500-tlye-varan-worldpuan-haziran-s",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Seyahat"
     },
     {
@@ -3100,7 +3116,7 @@
         "baslik": "21 Mayıs-30 Haziran 2026 tarihleri arasında Mocassini mağazalarından ve www.mocassini.com.tr'den tek seferde yapılacak peşin veya taksitli alışverişlerde 10.000 TL ve üzeri alışverişlerde 1.000 TL ekstre indirimi!",
         "resim": "https://www.worldcard.com.tr/getmedia/782c249f-f2b7-4734-b8d6-de3000033fcb/1125X633PX-MOCASSINI.JPG?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/mocassinide-1000-tl-ekstre-indirim-firsati-haziran-2026",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3108,7 +3124,7 @@
         "baslik": "World’e özel Opet istasyonlarında Chippin uygulaması üzerinden 4 farklı günde yapacağınız 1300TL ve üzeri alışverişinize 450TL değerinde Opet Puan!",
         "resim": "https://www.worldcard.com.tr/getmedia/e3118268-102a-46d1-85e8-452564ba125b/opet_banka_1125x633-12.png?width=1126&height=634&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/worlde-ozel-opet-istasyonlarinda-chippin-uygulamasi-uzerinden-1300-tl-ve-uzeri-harcamaya-450tl-deger",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Akaryakıt"
     },
     {
@@ -3116,7 +3132,7 @@
         "baslik": "Opet Worldcard'ınız ile lastik sektöründe 1-30 Haziran 2026 tarihleri arasında yapacağınız 4500 TL ve üzeri harcamalarda 250 TL Opet Puan kazanırsınız.",
         "resim": "https://www.worldcard.com.tr/getmedia/b30f9852-ba49-422f-a6cf-c7b1831c59e1/opet-arac-lastik.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/opet-worldcard-ile-lastik-sektorundeki-4500-tl-ve-uzeri-harcamaniza-250-tl-opet-puan-haziran",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Akaryakıt"
     },
     {
@@ -3124,7 +3140,7 @@
         "baslik": "Opet Worldcard'ınız ile araç bakım sektöründe 1-30 Haziran 2026 tarihleri arasında yapacağınız 3000 TL ve üzeri harcamalarda 150 TL Opet Puan kazanırsınız.",
         "resim": "https://www.worldcard.com.tr/getmedia/097d53fc-c6a4-4b80-aad5-04e84681bd6d/opet-arac-bakim.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/opet-worldcard-ile-arac-bakim-sektorundeki-3000-tl-ve-uzeri-harcamaniza-150-tl-opet-puan-haziran",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Akaryakıt"
     },
     {
@@ -3132,7 +3148,7 @@
         "baslik": "Opet Worldcard'ınız ile Türk Hava Yolları, AJet, Pegasus ve SunExpress’te 1-30 Haziran 2026   tarihleri arasında tek seferde yapacağınız 4000 TL ve üzeri harcamanızda 400 TL Opet Puan kazanırsınız.",
         "resim": "https://www.worldcard.com.tr/getmedia/b1c52bd0-a062-4017-a138-f93920e11ba1/opet-ucak-bileti.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/opet-worldcard-ile-turk-hava-yollari-ajet-pegasus-ve-sunexpresste-4000-tl-ve-uzeri-harcamaniza-400-h",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Akaryakıt"
     },
     {
@@ -3140,7 +3156,7 @@
         "baslik": "20 Mayıs - 19 Haziran 2026 tarihleri arasında Yapı Kredi Mobil üzerinden Yurt Dışı Çıkış Harç Pulu ödemesi yapan müşterilerin, takip eden 15 gün boyunca yurt dışı fiziki poslardan toplamda yapacağı 30.000 TL ve üzeri harcamalarında 1.250 TL indirim fırsatı!",
         "resim": "https://www.worldcard.com.tr/getmedia/471c5b1c-a4cd-45d1-9b4d-39d6b4307e2d/harc-pulu.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/mastercard-logolu-kartiniz-ile-yurt-disindaki-fiziki-poslardan-toplamda-yapacaginiz-30000-tl",
-        "tarih_bilgisi": "SON 5 GÜN",
+        "tarih_bilgisi": "SON 4 GÜN",
         "kategori": "Eğitim"
     },
     {
@@ -3148,7 +3164,7 @@
         "baslik": "Silver logolu Mastercard'ınız ile 1 Mayıs 2025 – 30 Haziran 2026 tarihleri arasında Sabiha Gökçen Havalimanı'nda ALLWAYS Fast Track/Hızlı Geçiş hizmetinden ücretsiz faydalanabiliyor!",
         "resim": "https://www.worldcard.com.tr/getmedia/f287f221-5161-4275-af97-942d46c38ee2/fast-track.png?width=1125&height=663&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/silver-logolu-mastercardiniza-sabiha-gokcen-havalimaninda-ucretsiz-allways-fast-trackhizl-mayis-2026",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3156,7 +3172,7 @@
         "baslik": "Toplam varlığınız 1 Milyon TL üzerinde ise, 20 Mayıs – 19 Haziran 2026 tarihleri arasında yurt dışındaki fiziki mağazalardan yapacağınız toplamda 60.000 TL ve üzeri harcamanıza 2.500 TL puan kazanma fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/b0062d03-e0b8-42fe-b650-6abfd40d0870/AlisverisWorld.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/mastercard-logolu-kartiniz-ile-yurt-disinda-yapacaginiz-alisverislerde-toplamda-2500-tl-mayis-2026",
-        "tarih_bilgisi": "SON 5 GÜN",
+        "tarih_bilgisi": "SON 4 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3164,7 +3180,7 @@
         "baslik": "Toplam varlığınız 1 Milyon TL üzerinde ise, 20 Mayıs – 19 Haziran 2026 tarihleri arasında Mastercard logolu kartınız ile yurt dışındaki Duty Free'lerde tek seferde yapacağınız her 5.000 TL ve üzeri harcamada 750 TL, toplamda 1.500 TL puan kazanma fırsatı!",
         "resim": "https://www.worldcard.com.tr/getmedia/17482d38-48c2-4baf-95dd-660cbe4c04a8/World-duty-free.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/mastercard-logolu-kartiniz-ile-yurt-disindaki-duty-freelerde-toplamda-1500-tlye-varan-mayis-2026",
-        "tarih_bilgisi": "SON 5 GÜN",
+        "tarih_bilgisi": "SON 4 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3172,7 +3188,7 @@
         "baslik": "20 Mayıs – 19 Haziran 2026 tarihleri arasında Mastercard logolu kartınız ile Yabancı Dizi ve Film Platformları harcamalarınızda işlem başına %50, toplamda 150 TL’ye varan indirim kazanma fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/cc23e268-4957-45d6-b226-d3e72bb6cca7/dizi-ve-film-1125x633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/mastercard-logolu-kartiniz-ile-yabanci-dizi-ve-film-platformlarindan-yapacaginiz-harcam-haziran-2026",
-        "tarih_bilgisi": "SON 5 GÜN",
+        "tarih_bilgisi": "SON 4 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3180,7 +3196,7 @@
         "baslik": "1-30 Haziran 2026 tarihleri arasında Ipekyol’dan yapacağınız 4.500 TL ve üzeri alışverişinize 750 TL Ipekyol Puan! Chippin uygulaması üzerinden Ipekyol fiziki mağazalarından yapacağınız alışverişlerinize ek 50 TL Ipekyol Puan!",
         "resim": "https://www.worldcard.com.tr/getmedia/760ad275-9d42-4e70-bac3-f6d93940114d/Ipekyol_YapiKrediApp1125x633b.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/ipekyolda-750-tl-ipekyol-puan-chippin-uygulamasi-uzerinden-ipekyol-fiziki-magazalarinda-haziran-2026",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Moda"
     },
     {
@@ -3188,7 +3204,7 @@
         "baslik": "15 Mayıs-15 Haziran 2026 tarihleri arasında Ametist mağazalarından tek seferde yapılacak peşin veya taksitli alışverişlerde %15 indirim!",
         "resim": "https://www.worldcard.com.tr/getmedia/44bc6ade-17f9-4f05-be1d-e778b5b34007/YKB.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/ametistte-15-indirim-firsati",
-        "tarih_bilgisi": "SON 1 GÜN",
+        "tarih_bilgisi": "SON 0 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3196,7 +3212,7 @@
         "baslik": "Opet ve Sunpet istasyonlarında 4 adet 1300TL ve üzeri akaryakıt alımına 350 TL Opet Puan!",
         "resim": "https://www.worldcard.com.tr/getmedia/639c6e8c-698c-4715-ba02-e0c868c66caa/Opet_YKB_Kamp_270326_web_1125x633-83_1.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/opet-ve-sunpet-istasyonlarinda-350-tl-opet-puan-haziran",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Akaryakıt"
     },
     {
@@ -3204,7 +3220,7 @@
         "baslik": "Opet ve Sunpet istasyonlarında 1300 TL ve üzeri 4 harcamandan birini Araçta Öde veya World Pay Pos’ta QR ile gerçekleştir, 350TL’ye ek 50 TL, toplamda 400TL Opet Puan kazan!",
         "resim": "https://www.worldcard.com.tr/getmedia/1f3546ea-14e5-43b9-b5e7-bd235623314e/Opet_YKB_Kamp_270326_web_1125x633-83.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/worlde-ozel-opet-ve-sunpet-istasyonlarinda-aracta-ode-veya-world-pay-posta-qr-ile-odemelerde-ek-50-t",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Akaryakıt"
     },
     {
@@ -3212,7 +3228,7 @@
         "baslik": "1-30 Haziran 2026 tarihleri arasında Tatilbudur.com, TatilBudur mobil uygulaması ,TatilBudur çağrı merkezi ve acenteler üzerinden  tek seferde yapılacak peşin, 3 taksitli veya 6 taksitli alışverişlerde seçili yurt içi ve Kuzey Kıbrıs otel, yurt dışı tur rezervasyonlarında geçerli; 45.000 TL-69.999 TL arası harcamaya 2.500 TL, 70.000 TL - 119.999 TL arası harcamaya 5.000 TL, 120.000 TL ve üzeri harcamaya 7.500 TL Worldpuan!",
         "resim": "https://www.worldcard.com.tr/getmedia/c0c3b8c0-1517-44c8-a4d0-78c5c6e15eb8/tatilsepeti-haziran.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/tatilbudurdan-yapilacak-rezervasyonlarda-7500-tlye-varan-worldpuan-haziran-2026",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Seyahat"
     },
     {
@@ -3220,7 +3236,7 @@
         "baslik": "Koçtaş Mağazalarında Chippin uygulaması üzerinden  yapacağınız 3500 TL ve üzeri alışverişte 350 TL Worldpuan’a ek 200 TL Worldpuan ile toplamda 550 TL ‘ye varan Worldpuan kazanma fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/04331261-5f15-417e-9354-d6aff2bee52a/koctas_banka_1125x633.png?width=1126&height=634&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/koctas-magazalarinda-chippin-uygulamasi-uzerinden-yapacaginiz-3500-tl-ve-uzeri-alisveriste-350-tl-o",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Mobilya"
     },
     {
@@ -3228,7 +3244,7 @@
         "baslik": "Koctas.com.tr ve Koçtaş mobil uygulamasından yapacağınız  3500 TL ve üzeri alışverişte 350 TL, World Pay ile ek 200 TL toplamda 550 TL’ye varan Worldpuan fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/094f7d2c-b522-44bf-8d47-61ea06afbd5b/koctas-ykb-worldpuan-1125x633.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/koctascomtr-ve-koctas-mobil-uygulamasindan-yapacaginiz-3500-tl-ve-uzeri-alisveriste-550-tlye-varan-h",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Mobilya"
     },
     {
@@ -3236,7 +3252,7 @@
         "baslik": "21 Mayıs-30 Haziran 2026 tarihleri arasında Kemal Tanca mağazalarından ve www.kemaltancaonline.com.tr 'den tek seferde yapılacak peşin veya taksitli alışverişlerde 10.000 TL ve üzeri alışverişlerde 1.000 TL ekstre indirimi!",
         "resim": "https://www.worldcard.com.tr/getmedia/3522bd42-5933-4441-b130-b2b42e98d86f/1125X633PX-KEMALTANCA.JPG?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/kemal-tancada-1000-tl-ekstre-indirim-firsati-haziran-2026",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3244,7 +3260,7 @@
         "baslik": "Opet Worldcard ile her ay Opet istasyonlarından tek seferde yapacağınız her 800 TL ve üzeri akaryakıt veya otogaz alımlarınızda anında 40 TL, toplamda 120 TL Opet istasyonlarında harcanabilir Opet Puan kazanabilirsiniz.",
         "resim": "https://www.worldcard.com.tr/getmedia/b7199252-82a5-4b59-8847-d9c172f39c4e/opet-puan111.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/opet-worldcard-ile-800-tl-ve-uzeri-akaryakit-veya-otogaz-aliminda-40-tl-toplamda-120-tlye-vara-opet",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Akaryakıt"
     },
     {
@@ -3252,7 +3268,7 @@
         "baslik": "Opet Worldcard'ınız ile araç yıkama sektöründe 1-30 Haziran 2026 tarihleri arasında yapacağınız 200 TL ve üzeri harcamalarda 15 TL, toplamda 45 TL Opet Puan kazanırsınız.",
         "resim": "https://www.worldcard.com.tr/getmedia/e6f87acd-868c-40b2-89fa-015faab0b442/opet-arac-yikama.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/opet-worldcard-ile-arac-yikama-sektorundeki-her-200-tl-ve-uzeri-harcamaniza-15-tl-toplamda-45-tly",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Akaryakıt"
     },
     {
@@ -3260,7 +3276,7 @@
         "baslik": "Opet Worldcard'ınız ile araç kiralama sektöründen 1-30 Haziran 2026 tarihleri arasında yapacağınız 3000 TL ve üzeri harcamalarda 200 TL Opet Puan kazanırsınız.",
         "resim": "https://www.worldcard.com.tr/getmedia/dcf01403-e299-41ed-9ecb-a52a601ab233/opet-arac-kiralama.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/opet-worldcard-ile-arac-kiralama-sektorundeki-3000-tl-ve-uzeri-harcamaniza-200-tl-opet-puan-haziran",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Akaryakıt"
     },
     {
@@ -3268,7 +3284,7 @@
         "baslik": "World'e özel tek seferde yapılacak 1.500 TL ve üzeri D&R alışverişlerinize 250 TL, World Pay ile ek 100 TL, toplam 350 TL D&R Puan fırsatını kaçırmayın! Üstelik 7 taksit!",
         "resim": "https://www.worldcard.com.tr/getmedia/349f52cd-986a-4763-bfd8-b06944d79a45/dr_D64EB_1.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/dandrda-350-tl-ye-varan-dandr-puan-ustelik-7-taksit",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Eğitim"
     },
     {
@@ -3276,7 +3292,7 @@
         "baslik": "World’e özel 1-30 Haziran 2026 tarihleri arasında www.divanpastaneleri.com.tr’den yapacağınız alışverişinize 100 TL Worldpuan kazanma fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/f965ebc9-51cf-4d30-a69d-e07086c81289/divan-pastaneleri-1125x633px.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/divanpastanelericomtrde-100-tl-worldpuan-haziran",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3284,7 +3300,7 @@
         "baslik": "1-30 Haziran 2026 tarihleri arasında World kampanyası kapsamında Chippin uygulaması üzerinden sadece Chippin ile anlaşmalı Burger King®, Popeyes®, Arby's®, Usta Dönerci®, Sbarro®, Subway® ve Usta Pideci® restoranlarında tek seferde yapılacak 200 TL ve üzeri alışverişe Chippin'de geçerli 50 TL Worldpuan, 2 farklı günde yapılacak 200 TL ve üzeri alışverişlerde toplamda Chippin'de geçerli 100 TL Worldpuan kazanılacaktır.",
         "resim": "https://www.worldcard.com.tr/getmedia/d1a1e5ce-1ff2-4c42-9027-6d479db2561b/tab-gida_banka_1125x633.png?width=1126&height=634&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/burger-king®-popeyes®-arbys®-usta-donerci®-sbarro®-subway®-ve-usta-pideci®-restoranlarinda-chippin-h",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Restoran"
     },
     {
@@ -3292,7 +3308,7 @@
         "baslik": "1-30 Haziran 2026 tarihleri arasında World kampanyası kapsamında Chippin üzerinden Kahve Dünyası'ndan tek seferde yapılacak 250 TL ve üzeri alışverişlerinizde Chippin'de geçerli 50 TL Worldpuan ve 25 TL ChipPuan kazanılacaktır.",
         "resim": "https://www.worldcard.com.tr/getmedia/a995372d-3d7c-4792-bf1e-533a0fb871d9/kahvedunyasi_banka_1125x633_v2_3.png?width=1126&height=634&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/kahve-dunyasinda-chippin-uygulamasi-uzerinden-yapacaginiz-250-tl-ve-uzeri-alisverisinize-chippinde-g",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Restoran"
     },
     {
@@ -3300,7 +3316,7 @@
         "baslik": "21 Mayıs- 21 Haziran 2026 tarihleri arasında 10.000 TL ve üzeri alışverişinize 1.000 TL Worldpuan fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/973a6b42-8981-47ad-b9d7-3400b750ae74/north-sails.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/north-sailste-1000-tl-worldpuan",
-        "tarih_bilgisi": "SON 7 GÜN",
+        "tarih_bilgisi": "SON 6 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3308,7 +3324,7 @@
         "baslik": "Gıda marketi, kasap, manav ve şarküteri sektörlerinde tek seferde yapacağınız ilk 2.000 TL ve üzeri alışverişinizden sonraki her 2.000 TL ve üzeri alışverişinize 100 TL, World Pay ile ödemelerde ek 25 TL, toplamda 1.500 TL’ye varan Worldpuan hediye!",
         "resim": "https://www.worldcard.com.tr/getmedia/703cb1c8-a601-4b93-b499-b820cf6ad9c3/World_8.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/gida-marketi-alisverislerinize-1200-tl-world-pay-ile-odemelerde-ek-300-tl-toplamda-1500-haziran-2026",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Market"
     },
     {
@@ -3316,7 +3332,7 @@
         "baslik": "World’e özel www.idefix.com’dan ve idefix mobil uygulamasından tek seferde yapılacak 3.000 TL ve üzeri alışverişe 300 TL Worldpuan fırsatını kaçırmayın! Üstelik 6 taksit!",
         "resim": "https://www.worldcard.com.tr/getmedia/e2b8779b-c2d0-4384-8901-dc2d39b58091/idefix.jpg?width=1125&height=663&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/wwwidefixcomda-ve-idefix-mobil-uygulamasinda-300-tl-worldpuan-ustelik-6-taksit-haziran",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3324,7 +3340,7 @@
         "baslik": "1-30 Haziran 2026 tarihleri arasında Kasko sigortasında Kasko tutarının %10’u kadar Worldpuan fırsatını kaçırmayın.",
         "resim": "https://www.worldcard.com.tr/getmedia/96589083-7e0b-4716-bdfd-7de9a06783f3/allianz.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/kasko-sigortasinda-50ye-varan-ozel-indirimlere-ek-2000-tlye-kadar-worldpuan-hediye-haziran",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3332,7 +3348,7 @@
         "baslik": "1-30 Haziran tarihleri arasında giyim ve kozmetik sektörlerinde tek seferde yapacağınız ilk alışverişinizden sonraki her 3.000 TL ve üzeri alışverişinize toplamda 2.000 TL’ye varan Worldpuan hediye!",
         "resim": "https://www.worldcard.com.tr/getmedia/48b71370-47ba-4252-9b26-d81cc4a25e89/Kampanya_Gorseli_1.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/giyim-ve-kozmetik-sektorunde-yapacaginiz-ilk-3000-tl-ve-uzeri-harcamadan-sonraki-her-3000-tl-ve-uzer",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Moda"
     },
     {
@@ -3340,7 +3356,7 @@
         "baslik": "1-30 Haziran 2026 tarihleri arasında World Mobil'e özel Chippin uygulaması üzerinden Happy Center'da 3 farklı günde yapacağınız 500 TL ve üzeri alışverişinize Chippin'de geçerli 150 TL Worldpuan ve 100 TL ChipPuan!",
         "resim": "https://www.worldcard.com.tr/getmedia/d66db6e8-e24f-4287-a8ec-8cb0c3c10335/happy-center_banka_1125x633_1.png?width=1126&height=634&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/happy-centerda-chippin-uygulamasi-uzerinden-3-farkli-gunde-yapacaginiz-500-tl-ve-uzeri-haziran",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Market"
     },
     {
@@ -3348,7 +3364,7 @@
         "baslik": "1–30 Haziran 2026 tarihleri arasında World Mobil'e özel Chippin uygulaması üzerinden Kim Market'te 3 farklı günde yapacağınız 500 TL ve üzeri alışverişinize Chippin'de geçerli 150 TL Worldpuan ve 100 TL ChipPuan!",
         "resim": "https://www.worldcard.com.tr/getmedia/d245d37d-eb7d-4cf1-9a0c-6175a3cc52c4/kim_banka_1125x633_sn_v2_1.png?width=1126&height=634&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/kim-markette-chippin-uygulamasi-uzerinden-3-farkli-gunde-yapacaginiz-500-tl-ve-uzeri-alisverisiniz-h",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Market"
     },
     {
@@ -3356,7 +3372,7 @@
         "baslik": "1–30 Haziran 2026 tarihleri arasında World Mobil'e özel Chippin uygulaması üzerinden Migros'tan 3 farklı günde yapacağınız 1.000 TL ve üzeri alışverişinize Chippin'de geçerli 150 TL Worldpuan!",
         "resim": "https://www.worldcard.com.tr/getmedia/7ad13120-e6e3-40ca-b573-0c274cf1f36f/migros-banka-1025x633_1.png?width=1126&height=634&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/migrosta-chippin-uygulamasi-uzerinden-3-farkli-gunde-yapacaginiz-1000-tl-ve-uzeri-alisverisinize-ci",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Market"
     },
     {
@@ -3364,7 +3380,7 @@
         "baslik": "1-30 Haziran 2026 tarihleri arasında restoran sektöründe tek seferde yapacağınız her 2.000 TL ve üzeri harcamaya toplamda 600 TL'ye varan Worldpuan hediye!",
         "resim": "https://www.worldcard.com.tr/getmedia/5f43ed0b-2f27-4027-9d79-c1533f621097/World-Restoran-1125x633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/restoran-sektorunde-yapacaginiz-her-2000-tl-harcamaya-100-tl-world-pay-ile-odemelerde-ek-50-tl",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Restoran"
     },
     {
@@ -3372,7 +3388,7 @@
         "baslik": "Seçili Okullarda 1-30 Haziran tarihleri arasında 100.000 TL ve üzeri peşin eğitim harcamalarınıza faizsiz 3 taksit!",
         "resim": "https://www.worldcard.com.tr/getmedia/9a4ae269-c807-4d20-8ea1-211bb385ab30/PIT.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/secili-okullarda-pesin-egitim-harcamalariniza-faizsiz-3-taksit",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Eğitim"
     },
     {
@@ -3380,7 +3396,7 @@
         "baslik": "Seçili Okullarda 1-30 Haziran tarihleri arasında 500.000 TL ve üzeri taksitli eğitim harcamalarınıza +3 ek taksit!",
         "resim": "https://www.worldcard.com.tr/getmedia/f6b86775-9faf-4620-90fd-aa4713190c9f/egitim-3-taksit.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/secili-okullarda-2-ve-3-taksitli-egitim-harcamalariniza-3-ek-taksit",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Eğitim"
     },
     {
@@ -3388,7 +3404,7 @@
         "baslik": "5 - 30 Haziran 2026 tarihleri arasında, Worldcard ile Özdilekteyim'den tek seferde yapacağınız 3.000 TL ve üzeri alışverişlerinizde, 250 TL Worldpuan hediye!",
         "resim": "https://www.worldcard.com.tr/getmedia/09261f2a-00e5-4899-aba8-70c1dc5eb9cf/1125x633-banka-gorseli.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/5-30-haziran-2026-tarihleri-arasinda-worldcard-ile-ozdilekteyimden-tek-seferde-yapacagi-haziran-2026",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3396,7 +3412,7 @@
         "baslik": "NetWork’te Yapı Kredi World’e özel İlkbahar&Yaz 2026 sezonunda %40 indirim!",
         "resim": "https://www.worldcard.com.tr/getmedia/4842da49-bc75-426e-989a-dcf52cd3c612/NetWork_C_1.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/networkte-yapi-kredi-worlde-ozel-2-ve-uzeri-urune-40-indirim",
-        "tarih_bilgisi": "SON 4 GÜN",
+        "tarih_bilgisi": "SON 3 GÜN",
         "kategori": "Moda"
     },
     {
@@ -3404,7 +3420,7 @@
         "baslik": "Vakko, Vakkorama ve Wcollection’dan yapacağınız 20.000 TL ve üzeri alışverişlerinize 2.000 TL, 40.000 TL ve üzerine 4.000 TL Worldpuan!",
         "resim": "https://www.worldcard.com.tr/getmedia/614b29a9-4609-4f3e-8aaa-f857e1074fe5/Vakko-1125x633-yapi-kredi_.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/vakko-vakkorama-ve-wcollectionda-4000-tlye-varan-worldpuan",
-        "tarih_bilgisi": "SON 7 GÜN",
+        "tarih_bilgisi": "SON 6 GÜN",
         "kategori": "Moda"
     },
     {
@@ -3412,15 +3428,23 @@
         "baslik": "Arkadaşlarınızı World Mobil’e davet edin, World Mobil’li yaptığınız her arkadaşınız için 100 TL, toplam 500 TL Worldpuan kazanın! Üstelik World Mobil’li yaptığınız arkadaşınıza özel kampanya da World Mobil’den!",
         "resim": "https://www.worldcard.com.tr/getmedia/fb77cd05-d788-499d-bd42-16aa1815f937/arkadasini-davet-et-kasim.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/arkadaslarinizi-world-mobille-tanistirinhem-siz-hem-arkadasiniz-500-tlye-varan-worldpuan-kazanin",
-        "tarih_bilgisi": "SON 8 GÜN",
+        "tarih_bilgisi": "SON 7 GÜN",
         "kategori": "Diğer"
+    },
+    {
+        "banka": "World",
+        "baslik": "TROY kart ile LC Waikiki mağazaları, www.lcw.com ve LCW mobil uygulamasından tek seferde yapılacak 3.000 TL ve üzeri alışverişe anında 300 TL indirim fırsatı!",
+        "resim": "https://www.worldcard.com.tr/getmedia/cee3e847-14ae-4b6b-9a50-7a5694395658/TROY-LC-Waikiki-Kampanya-Gorseli.jpg?width=1125&height=633&ext=.jpg",
+        "link": "https://www.worldcard.com.tr/kampanyalar/lc-waikikide-troy-karta-3000-tlye-300-tl-indirim-firsati",
+        "tarih_bilgisi": "SON 30 GÜN",
+        "kategori": "Moda"
     },
     {
         "banka": "World",
         "baslik": "Masterpass’e kayıtlı Mastercard® logolu banka kartı, kredi kartı veya ön ödemeli kartlar ile ENUYGUN.com mobil uygulamasından yapılacak uçak bileti alımına 1.000 TL indirim!",
         "resim": "https://www.worldcard.com.tr/getmedia/dd6aa552-0269-466e-b8c4-9fe722e92e56/1125x633-enuygun.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/masterpasse-kayitli-mastercard-sahiplerine-ozel-enuyguncom-mobil-uygulamasinda-ucak-haziran-2026",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Seyahat"
     },
     {
@@ -3428,39 +3452,55 @@
         "baslik": "Masterpass'e kayıtlı Mastercard sahiplerine Martı'da geçerli 200TL kupon hediye!",
         "resim": "https://www.worldcard.com.tr/getmedia/5b212ebd-5dda-4a55-8d2a-b2a6eda055e2/1125x633-marti.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/masterpasse-kayitli-mastercard-sahiplerine-martida-gecerli-200tl-kupon-hediye-haziran-2026",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Diğer"
     },
     {
         "banka": "World",
-        "baslik": "Mastercard® Sahiplerine Bitaksi’de 350 TL İndirim Kuponu Hediye!",
-        "resim": "https://www.worldcard.com.tr/getmedia/85fa0f75-37a1-47ea-9748-d942f5c3943e/1125x633-bitaksi.jpg?width=1125&height=633&ext=.jpg",
-        "link": "https://www.worldcard.com.tr/kampanyalar/mastercard®-sahiplerine-bitakside-350-tl-indirim-kuponu-hediye-haziran-2026",
-        "tarih_bilgisi": "SON 1 GÜN",
-        "kategori": "Diğer"
+        "baslik": "Penti mağazaları ve www.penti.com ‘dan yapacağınız 1.500 TL ve üzeri alışverişlerinize 200 TL, World Pay ile yapılacak ödemelere ek 50 TL toplamda 250 TL’ye varan Penti puan!",
+        "resim": "https://www.worldcard.com.tr/getmedia/37948458-94cc-4b05-ba7d-fc4b2b721039/YKB_1125x633px.jpg?width=1125&height=633&ext=.jpg",
+        "link": "https://www.worldcard.com.tr/kampanyalar/pentide-250-tlye-varan-penti-puan-haziran-2026",
+        "tarih_bilgisi": "SON 6 GÜN",
+        "kategori": "Moda"
     },
     {
         "banka": "World",
         "baslik": "World’e özel 12-30 Haziran 2026 tarihleri arasında 10.000 TL ve üzeri Saat&Saat alışverişinize 2.000 TL Saat&Saat Puan fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/ba50513a-6e07-4d02-bafa-9353fd6c76e3/JP-1125x633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/saatandsaatte-2000-tl-saatandsaat-puan-haziran",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Moda"
+    },
+    {
+        "banka": "World",
+        "baslik": "Mastercard® Sahiplerine Bitaksi’de 350 TL İndirim Kuponu Hediye!",
+        "resim": "https://www.worldcard.com.tr/getmedia/85fa0f75-37a1-47ea-9748-d942f5c3943e/1125x633-bitaksi.jpg?width=1125&height=633&ext=.jpg",
+        "link": "https://www.worldcard.com.tr/kampanyalar/mastercard®-sahiplerine-bitakside-350-tl-indirim-kuponu-hediye-haziran-2026",
+        "tarih_bilgisi": "SON 0 GÜN",
+        "kategori": "Diğer"
     },
     {
         "banka": "World",
         "baslik": "Pazarama’da kayıtlı veya yeni kaydedeceğin TROY kartınla 1.000 TL ve üzeri alışverişte 200 TL indirim!",
         "resim": "https://www.worldcard.com.tr/getmedia/462dcac3-8666-4970-9485-d1f4c7654959/TROY_haziran_kartkaydetme-jpg-son.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/pazaramada-kayitli-veya-yeni-kaydedecegin-troy-kartinla-1000-tl-ve-uzeri-alisveriste-200-tl-indirim",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "E-Ticaret"
+    },
+    {
+        "banka": "World",
+        "baslik": "Beymen Club’ta Yapı Kredi World’e özel İlkbahar&Yaz 2026 sezonunda 2 ve üzeri ürüne %40 indirim!",
+        "resim": "https://www.worldcard.com.tr/getmedia/aa576e5c-60c9-4374-a469-87d5be340264/BC_IMAJ_EKRAN_1125x633.jpg?width=1125&height=633&ext=.jpg",
+        "link": "https://www.worldcard.com.tr/kampanyalar/beymen-clubta-yapi-kredi-worlde-ozel-2-ve-uzeri-urune-40-indirim",
+        "tarih_bilgisi": "SON 10 GÜN",
+        "kategori": "Moda"
     },
     {
         "banka": "World",
         "baslik": "World Platinum ile USLA’nın dünya standartlarında eğitmenlerle birbirinden lezzetli yemeklerin yapım aşamalarında yer alırken, gastronomi dünyasını deneyimleyebileceğiniz workshoplarda %10 indirim.",
         "resim": "https://www.worldcard.com.tr/getmedia/394eb967-7799-4b25-aa90-19157d502c76/USLA-Workshop-Sinif.png?width=1882&height=1256&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/world-platinum-ile-uslada-gerceklesecek-workshoplarda-10-indirim",
-        "tarih_bilgisi": "SON 200 GÜN",
+        "tarih_bilgisi": "SON 199 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3468,7 +3508,7 @@
         "baslik": "Sneaks Up harcamalarınızda peşin fiyatına 6 taksit fırsatını kaçırmayın!",
         "resim": "https://www.worldcard.com.tr/getmedia/61d9ea09-1805-4902-879d-097ef0de8326/1125-px-X-633.jpg?width=1125&height=633&ext=.jpg",
         "link": "https://www.worldcard.com.tr/kampanyalar/sneaks-upta-pesin-fiyatina-6-taksit",
-        "tarih_bilgisi": "SON 200 GÜN",
+        "tarih_bilgisi": "SON 199 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3476,7 +3516,7 @@
         "baslik": "Bilgi ve şans yarışması olan Vadaa Şans hafta içi her akşam toplam 10.000 TL Worldpuan ödül ile, Çarşambaları ise toplam 15.000 TL Worldpuan ödül ile saat 20.00’de World Mobil’de!",
         "resim": "https://www.worldcard.com.tr/getmedia/6ee2d3d3-b8b0-46e4-b83d-e9beef3aec1e/vada-sans-(1).png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/toplamda-15000-tlye-varan-worldpuan-odullu-vadaa-sans-hafta-ici-her-aksam-2000de",
-        "tarih_bilgisi": "SON 200 GÜN",
+        "tarih_bilgisi": "SON 199 GÜN",
         "kategori": "Moda"
     },
     {
@@ -3484,7 +3524,7 @@
         "baslik": "Reztoran’da birbirinden farklı restoranlar tek ödeme ve ortak sepet özelliği ile kapınızda. World Platinum ile Reztoran uygulamasından yapacağınız harcamalarda %10 indirim.",
         "resim": "https://www.worldcard.com.tr/getmedia/7ae2e98d-933d-4f2c-929f-7fca23f0618a/reztoran-image.png?width=1125&height=633&ext=.png",
         "link": "https://www.worldcard.com.tr/kampanyalar/world-platinum-ile-restoranda-10-indirim",
-        "tarih_bilgisi": "SON 200 GÜN",
+        "tarih_bilgisi": "SON 199 GÜN",
         "kategori": "Diğer"
     },
     {
@@ -3492,7 +3532,7 @@
         "baslik": "Fenerbahçe Worldcard ile Fenerium mağazalarında %10 indirime ek %10, tek seferde 500 TL, toplamda 1000 TL’ye varan indirim fırsatını kaçırmayın.",
         "resim": "https://www.worldcard.com.tr/getmedia/a9c8dd9c-668d-4d2c-9394-e1bba4f8d522/30007900007.webp?ext=.webp",
         "link": "https://www.worldcard.com.tr/kampanyalar/fenerbahce-worldcard-ile-fenerium-magazalarinda-10-indirime-ek-10-tek-seferde-500-tl-toplamda-1000-t",
-        "tarih_bilgisi": "SON 16 GÜN",
+        "tarih_bilgisi": "SON 15 GÜN",
         "kategori": "Moda"
     },
     {
@@ -3513,7 +3553,7 @@
     },
     {
         "banka": "Bonus",
-        "baslik": "Hastane ve eczaneharcamalarınızda ücretsiz taksit fırsatı!Son 1 Gün",
+        "baslik": "Hastane ve eczaneharcamalarınızda ücretsiz taksit fırsatı!",
         "resim": "https://www.bonus.com.tr/assets/images/imported/ecz_230525.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/bonus-hastane-eczane-kampanyasi",
         "tarih_bilgisi": "",
@@ -3529,7 +3569,7 @@
     },
     {
         "banka": "Bonus",
-        "baslik": "Garanti BBVA POS'u olan okullardapeşin ödemelerinize faizsiz 3 taksit!Son 1 Gün",
+        "baslik": "Garanti BBVA POS'u olan okullardapeşin ödemelerinize faizsiz 3 taksit!Son Gün",
         "resim": "https://www.bonus.com.tr/assets/images/imported/egitim_290525.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/garanti-bbva-egitim-kampanyasi",
         "tarih_bilgisi": "",
@@ -3561,7 +3601,7 @@
     },
     {
         "banka": "Bonus",
-        "baslik": "2.000 TL - 5.000.000 TL arasıdijital.gib.gov.tr'den yapılan Gelir Vergisi ödemelerinize ücretsiz 2 taksit!Son 1 Gün",
+        "baslik": "2.000 TL - 5.000.000 TL arasıdijital.gib.gov.tr'den yapılan Gelir Vergisi ödemelerinize ücretsiz 2 taksit!",
         "resim": "https://www.bonus.com.tr/assets/images/imported/vergi_210526.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/bonus-taksit-vergi-kampanya",
         "tarih_bilgisi": "",
@@ -3849,6 +3889,38 @@
     },
     {
         "banka": "Bonus",
+        "baslik": "LC Waikiki'deGaranti BBVA TROY ile 3.000 TL'ye 300 TL indirim!",
+        "resim": "https://www.bonus.com.tr/assets/images/imported/lcw_troy_050626.jpg",
+        "link": "https://www.bonus.com.tr/kampanyalar/lc-waikiki-indirim-kampanyasi",
+        "tarih_bilgisi": "",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bonus",
+        "baslik": "Bonus'la gençlere özelyaz tatilinde toplam 500 TL bonus!",
+        "resim": "https://www.bonus.com.tr/assets/images/imported/bonus_120626.jpg",
+        "link": "https://www.bonus.com.tr/kampanyalar/bonus-yaz-tatili-kampanyasi",
+        "tarih_bilgisi": "",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bonus",
+        "baslik": "1.000 TL ve üzerialışverişlerinize 200 TL, toplamda 1.000 TL'ye varan indirim!",
+        "resim": "https://www.bonus.com.tr/assets/images/imported/troy_100626.jpg",
+        "link": "https://www.bonus.com.tr/kampanyalar/bonus-troy-dr-kampanyasi",
+        "tarih_bilgisi": "",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bonus",
+        "baslik": "Altınyıldız Classics'te5.000 TL ve üzeri alışverişlerde +%10 indirim!Son 10 Gün",
+        "resim": "https://www.bonus.com.tr/assets/images/imported/altinyildiz_classics_2_040626.jpg",
+        "link": "https://www.bonus.com.tr/kampanyalar/altinyildiz-classics-indirim-kampanya",
+        "tarih_bilgisi": "",
+        "kategori": "Diğer"
+    },
+    {
+        "banka": "Bonus",
         "baslik": "Visa logolu Garanti BBVA kartınız ileEl Corte Inglés'te 100 Euro kazandıran alışveriş deneyimi sizi bekliyor!",
         "resim": "https://www.bonus.com.tr/assets/images/imported/visa_110626.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/visa-elcorteingles-alisveris-kampanyasi",
@@ -3940,6 +4012,46 @@
         "baslik": "www.nautica-tr.com'daGarantiPay'le 4.000 TL ve üzeri alışverişe 500 TL bonus!",
         "resim": "https://www.bonus.com.tr/assets/images/imported/nautica_110626.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/nautica-gp-giyim-kampanyasi",
+        "tarih_bilgisi": "",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bonus",
+        "baslik": "SuperStep'te8.000 TL ve üzeri alışverişe 500 TL bonus!",
+        "resim": "https://www.bonus.com.tr/assets/images/imported/superstep_110626.jpg",
+        "link": "https://www.bonus.com.tr/kampanyalar/superstep-bf-giyim-kampanyasi",
+        "tarih_bilgisi": "",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bonus",
+        "baslik": "GANT'te8.000 TL ve üzeri alışverişe 600 TL bonus!",
+        "resim": "https://www.bonus.com.tr/assets/images/imported/gant_110626.jpg",
+        "link": "https://www.bonus.com.tr/kampanyalar/gant-bf-giyim-kampanyasi",
+        "tarih_bilgisi": "",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bonus",
+        "baslik": "House of SuperStep'te8.000 TL ve üzeri alışverişe 500 TL bonus!",
+        "resim": "https://www.bonus.com.tr/assets/images/imported/house_of_superstep_110626.jpg",
+        "link": "https://www.bonus.com.tr/kampanyalar/house-of-superstep-kampanyalari",
+        "tarih_bilgisi": "",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bonus",
+        "baslik": "Nautica'da5.000 TL ve üzeri alışverişe 400 TL bonus!",
+        "resim": "https://www.bonus.com.tr/assets/images/imported/nautica_110626.jpg",
+        "link": "https://www.bonus.com.tr/kampanyalar/nautica-bf-giyim-kampanyasi",
+        "tarih_bilgisi": "",
+        "kategori": "Moda"
+    },
+    {
+        "banka": "Bonus",
+        "baslik": "Lacoste'ta15.000 TL ve üzeri alışverişe 1.000 TL bonus!",
+        "resim": "https://www.bonus.com.tr/assets/images/imported/lacoste_110626.jpg",
+        "link": "https://www.bonus.com.tr/kampanyalar/lacoste-bf-giyim-kampanyalari",
         "tarih_bilgisi": "",
         "kategori": "Moda"
     },
@@ -4161,7 +4273,7 @@
     },
     {
         "banka": "Bonus",
-        "baslik": "Bonus Cool ek karta başvurun,toplam 1.000 TL bonus kazanın!Son 1 Gün",
+        "baslik": "Bonus Cool ek karta başvurun,toplam 1.000 TL bonus kazanın!Son Gün",
         "resim": "https://www.bonus.com.tr/assets/images/imported/cool_030626.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/bonus-cool-kart-kampanya",
         "tarih_bilgisi": "",
@@ -4505,7 +4617,7 @@
     },
     {
         "banka": "Bonus",
-        "baslik": "Pazarama'da2.500 TL ve üzeri alışverişe 250 TL bonus!Son 1 Gün",
+        "baslik": "Pazarama'da2.500 TL ve üzeri alışverişe 250 TL bonus!Son Gün",
         "resim": "https://www.bonus.com.tr/assets/images/imported/paz_090424.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/pazarama-eticaret-bonus-kampanyasi",
         "tarih_bilgisi": "",
@@ -4561,7 +4673,7 @@
     },
     {
         "banka": "Bonus",
-        "baslik": "Trumore mağaza alışverişlerinde1.500 TL'ye varan bonus!Son 1 Gün",
+        "baslik": "Trumore mağaza alışverişlerinde1.500 TL'ye varan bonus!Son Gün",
         "resim": "https://www.bonus.com.tr/assets/images/imported/togg_060426.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/togg-trumore-otomotiv-kampanyalari",
         "tarih_bilgisi": "",
@@ -4569,7 +4681,7 @@
     },
     {
         "banka": "Bonus",
-        "baslik": "Varr şarj istasyonlarında400 TL'ye varan bonus!Son 1 Gün",
+        "baslik": "Varr şarj istasyonlarında400 TL'ye varan bonus!Son Gün",
         "resim": "https://www.bonus.com.tr/assets/images/imported/varr_100226.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/varr-sarj-istasyonlari-kampanyalari",
         "tarih_bilgisi": "",
@@ -4609,7 +4721,7 @@
     },
     {
         "banka": "Bonus",
-        "baslik": "Yenilenen BonusFlaş'tan40 kişiye 40.000 TL hediye çeki!Son 1 Gün",
+        "baslik": "Yenilenen BonusFlaş'tan40 kişiye 40.000 TL hediye çeki!Son Gün",
         "resim": "https://www.bonus.com.tr/assets/images/imported/cekilis_290426.jpg",
         "link": "https://www.bonus.com.tr/kampanyalar/bonusflas-hediye-ceki-kampanyasi",
         "tarih_bilgisi": "",
